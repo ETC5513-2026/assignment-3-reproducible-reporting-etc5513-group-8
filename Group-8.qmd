@@ -1,0 +1,71 @@
+---
+title: "Queensland Road Safety"
+author: "Jacqueline Gunawan", 
+        "Chung Yu Lin", 
+        "Kai Aditya Sharma", 
+        "Kai Hong Su"
+format: 
+  pdf:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: references.bib
+---
+
+```{r}
+#| label: setup
+
+# Load libraries here
+library(ggplot2)
+library(dplyr)
+library(knitr)
+```
+
+
+# Executive Summary
+
+Max 4 sentences
+
+
+# Introduction
+
+Max 10 sentences
+
+
+# Methodology
+
+Max 300 words
+
+```{r}
+#| label: fig-method-plot
+#| fig-cap: "Caption for methodology figure."
+
+# plot code 
+```
+
+```{r}
+#| label: tbl-method-table
+#| tbl-cap: "Caption for methodology table."
+
+# table code
+```
+
+
+# Results
+
+Max 200 words
+
+```{r}
+#| label: fig-results-plot
+#| fig-cap: "Caption for results figure."
+
+# plot code
+```
+
+
+# Discussion, Conclusion and Recommendations
+
+# References
