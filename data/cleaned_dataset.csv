@@ -1,0 +1,403 @@
+Crash_Ref_Number,Crash_Severity,Crash_Year,Crash_Month,Crash_Day_Of_Week,Crash_Hour,Crash_Nature,Crash_Type,Crash_Latitude,Crash_Longitude,Loc_Post_Code,Loc_Police_Region,Crash_Speed_Limit,Crash_Road_Surface_Condition,Crash_Atmospheric_Condition,Crash_Lighting_Condition,Crash_Road_Horiz_Align,Crash_Road_Vert_Align,Crash_DCA_Group_Description,Count_Unit_Car
+70263,Medical treatment,2024,May,Saturday,20,Rear-end,Multi-Vehicle,-27.57233944,152.958205,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+70422,Medical treatment,2024,November,Thursday,19,Sideswipe,Multi-Vehicle,-27.65221178,153.0700826,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,05: Lane Change,2
+70677,Minor injury,2024,December,Wednesday,18,Hit object,Single Vehicle,-27.50912446,153.155774,4155,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Dip,21: Other,1
+70764,Hospitalisation,2024,August,Monday,7,Head-on,Multi-Vehicle,-27.55882146,153.175176,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,02: Head-on,2
+70787,Medical treatment,2024,November,Wednesday,6,Rear-end,Multi-Vehicle,-27.64765845,153.049133,4116,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+70795,Hospitalisation,2024,April,Monday,15,Rear-end,Multi-Vehicle,-27.64005147,153.240598,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,3
+70806,Hospitalisation,2024,September,Thursday,19,Rear-end,Multi-Vehicle,-27.50723545,153.038766,4120,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+70930,Hospitalisation,2024,December,Friday,6,Rear-end,Multi-Vehicle,-27.56611247,153.239374,4164,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,04: Rear-end,6
+71009,Minor injury,2024,October,Thursday,13,Rear-end,Multi-Vehicle,-27.56828947,153.274306,4164,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+71178,Hospitalisation,2024,February,Saturday,21,Hit object,Single Vehicle,-27.58570547,153.255683,4164,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+71183,Hospitalisation,2024,February,Monday,8,Angle,Multi-Vehicle,-27.58879547,153.228496,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,01: Intersection: Adjacent Approach,2
+71333,Hospitalisation,2024,December,Saturday,12,Hit object,Single Vehicle,-27.32161845,153.0507611,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+71492,Medical treatment,2024,October,Friday,8,Rear-end,Multi-Vehicle,-27.50540545,153.038882,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+72879,Medical treatment,2024,June,Wednesday,7,Rear-end,Multi-Vehicle,-27.59776344,152.921284,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+73000,Medical treatment,2024,February,Tuesday,16,Angle,Multi-Vehicle,-27.60201447,153.261137,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,03: Opposing Vehicles Turning,3
+73117,Medical treatment,2024,December,Wednesday,15,Hit object,Single Vehicle,-27.30282845,153.0444201,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+76096,Minor injury,2024,August,Friday,15,Rear-end,Multi-Vehicle,-27.31271545,153.0411261,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+76264,Minor injury,2024,March,Sunday,2,Hit parked vehicle,Single Vehicle,-27.51491645,153.044643,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,10: Hit Parked Vehicle,2
+76267,Hospitalisation,2024,March,Sunday,12,Rear-end,Multi-Vehicle,-27.51913645,153.051008,4120,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,5
+76269,Hospitalisation,2024,March,Sunday,12,Rear-end,Multi-Vehicle,-27.30018744,153.0162461,4036,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,04: Rear-end,2
+76274,Medical treatment,2024,May,Wednesday,7,Sideswipe,Multi-Vehicle,-27.63236145,153.064265,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+85808,Medical treatment,2024,September,Friday,5,Hit object,Single Vehicle,-27.56199744,152.994175,4106,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+88871,Medical treatment,2024,October,Thursday,8,Rear-end,Multi-Vehicle,-27.57165344,152.944081,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,2
+95105,Medical treatment,2024,October,Monday,6,Sideswipe,Multi-Vehicle,-27.41934045,153.03503,4030,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+95113,Medical treatment,2024,October,Wednesday,7,Rear-end,Multi-Vehicle,-27.64815845,153.052716,4116,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+95118,Hospitalisation,2024,October,Wednesday,14,Angle,Multi-Vehicle,-27.58181045,153.096886,4113,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,03: Opposing Vehicles Turning,2
+95125,Hospitalisation,2024,October,Saturday,23,Rear-end,Multi-Vehicle,-27.44079845,153.031816,4030,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+95309,Medical treatment,2024,May,Monday,6,Rear-end,Multi-Vehicle,-27.57161045,153.107571,4123,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+95414,Hospitalisation,2024,April,Wednesday,16,Rear-end,Multi-Vehicle,-27.41125645,153.068968,4011,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,12: Pedestrian,4
+95606,Minor injury,2024,March,Thursday,16,Rear-end,Multi-Vehicle,-27.64180844,153.011338,4110,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+96285,Medical treatment,2024,May,Friday,19,Hit object,Single Vehicle,-27.48956245,153.122836,4153,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+97825,Hospitalisation,2024,February,Sunday,11,Rear-end,Multi-Vehicle,-27.31383945,153.0477811,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+97845,Fatal,2024,April,Sunday,18,Head-on,Multi-Vehicle,-27.30626545,153.0441991,4017,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Curved - view open,Level,02: Head-on,6
+97935,Minor injury,2024,December,Tuesday,18,Hit object,Single Vehicle,-27.58706644,152.927871,4076,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+97946,Minor injury,2024,September,Monday,11,Rear-end,Multi-Vehicle,-27.31634344,153.0028171,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+98129,Medical treatment,2024,August,Thursday,5,Overturned,Single Vehicle,-27.55485644,152.940564,4074,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,16: Off Carriageway on Straight Hit Object,1
+98137,Hospitalisation,2024,December,Sunday,10,Rear-end,Multi-Vehicle,-27.44670145,153.032736,4006,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,3
+98161,Hospitalisation,2024,August,Thursday,8,Rear-end,Multi-Vehicle,-27.43595745,153.095726,4009,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,04: Rear-end,3
+98422,Minor injury,2024,January,Tuesday,5,Sideswipe,Multi-Vehicle,-27.52176545,153.053096,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,05: Lane Change,2
+98455,Hospitalisation,2024,August,Thursday,20,Head-on,Multi-Vehicle,-27.52484746,153.163886,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Curved - view obscured,Level,02: Head-on,2
+98468,Hospitalisation,2024,September,Monday,6,Sideswipe,Multi-Vehicle,-27.47361245,153.116878,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,5
+99077,Medical treatment,2024,March,Thursday,8,Rear-end,Multi-Vehicle,-27.60026182,152.9203174,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+99092,Medical treatment,2024,November,Monday,12,Head-on,Multi-Vehicle,-27.55893446,153.171955,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,02: Head-on,2
+99114,Medical treatment,2024,November,Thursday,10,Angle,Multi-Vehicle,-27.48904146,153.196066,4159,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,01: Intersection: Adjacent Approach,2
+99415,Hospitalisation,2024,November,Friday,16,Rear-end,Multi-Vehicle,-27.52072645,153.052198,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+99416,Medical treatment,2024,November,Saturday,14,Rear-end,Multi-Vehicle,-27.49154546,153.124229,4153,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+99434,Medical treatment,2024,June,Friday,13,Hit object,Single Vehicle,-27.35368144,152.9680971,4035,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+99435,Medical treatment,2024,June,Friday,14,Hit object,Single Vehicle,-27.53496344,152.946576,4074,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+99449,Medical treatment,2024,June,Tuesday,17,Sideswipe,Multi-Vehicle,-27.48334445,153.120019,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,05: Lane Change,1
+99455,Hospitalisation,2024,December,Monday,21,Hit pedestrian,Hit pedestrian,-27.51709046,153.217943,4161,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,12: Pedestrian,1
+99633,Minor injury,2024,April,Wednesday,18,Rear-end,Multi-Vehicle,-27.50718146,153.124736,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,1
+99653,Hospitalisation,2024,July,Friday,19,Rear-end,Multi-Vehicle,-27.64170044,153.0116,4110,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+99710,Hospitalisation,2024,June,Monday,6,Sideswipe,Multi-Vehicle,-27.41801445,153.087563,4009,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,05: Lane Change,1
+106621,Hospitalisation,2024,October,Wednesday,15,Sideswipe,Multi-Vehicle,-27.32259145,153.0505211,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+106690,Medical treatment,2024,May,Thursday,17,Rear-end,Multi-Vehicle,-27.47382945,153.116989,4173,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,3
+115046,Hospitalisation,2024,December,Tuesday,1,Overturned,Single Vehicle,-27.55822744,152.939806,4074,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,04: Rear-end,2
+117523,Hospitalisation,2024,April,Tuesday,16,Angle,Multi-Vehicle,-27.37495943,152.8405111,4520,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,02: Head-on,2
+120878,Medical treatment,2024,January,Sunday,11,Rear-end,Multi-Vehicle,-27.28510045,153.0624411,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+122309,Medical treatment,2024,February,Tuesday,13,Angle,Multi-Vehicle,-27.36792045,153.097588,4014,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+126634,Fatal,2024,May,Tuesday,13,Head-on,Multi-Vehicle,-27.59289844,152.994115,4077,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,02: Head-on,1
+126642,Medical treatment,2024,June,Tuesday,17,Rear-end,Multi-Vehicle,-27.31887744,153.0130721,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,04: Rear-end,3
+126658,Medical treatment,2024,June,Wednesday,17,Sideswipe,Multi-Vehicle,-27.49890113,153.0397759,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Grade,05: Lane Change,1
+126659,Minor injury,2024,June,Tuesday,6,Rear-end,Multi-Vehicle,-27.31291345,153.0415111,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+126668,Minor injury,2024,July,Saturday,23,Hit object,Single Vehicle,-27.49911045,153.039889,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+126975,Medical treatment,2024,October,Monday,12,Sideswipe,Multi-Vehicle,-27.35648845,153.086708,4014,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+126990,Medical treatment,2024,October,Thursday,6,Rear-end,Multi-Vehicle,-27.56637344,152.942832,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,3
+140823,Minor injury,2024,February,Wednesday,7,Rear-end,Multi-Vehicle,-27.56570946,153.20995,4157,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,3
+140829,Hospitalisation,2024,March,Monday,23,Hit object,Single Vehicle,-27.51073446,153.170016,4155,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+140961,Medical treatment,2024,May,Friday,20,Hit object,Single Vehicle,-27.64656244,152.979306,4124,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,19: Off Carriageway on Curve Hit Object,1
+140995,Medical treatment,2024,May,Monday,13,Sideswipe,Multi-Vehicle,-27.64154744,152.986276,4110,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+141025,Medical treatment,2024,February,Tuesday,8,Sideswipe,Multi-Vehicle,-27.45190845,153.104606,4172,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+141124,Hospitalisation,2024,March,Wednesday,11,Rear-end,Multi-Vehicle,-27.39170743,152.8784261,4520,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,04: Rear-end,1
+141148,Hospitalisation,2024,October,Saturday,10,Sideswipe,Multi-Vehicle,-27.49029445,153.033385,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,05: Lane Change,2
+141536,Medical treatment,2024,May,Thursday,7,Overturned,Single Vehicle,-27.33809145,153.041281,4018,Brisbane,100 - 110 km/h,Unsealed - Dry,Clear,Daylight,Straight,Level,17: Out of Control on Straight,1
+141564,Medical treatment,2024,May,Tuesday,18,Hit object,Single Vehicle,-27.64433123,153.0293679,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+141589,Medical treatment,2024,May,Friday,7,Angle,Multi-Vehicle,-27.6344568,152.9552215,4124,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,07: U-turn,1
+141600,Medical treatment,2024,May,Thursday,8,Rear-end,Multi-Vehicle,-27.61849545,153.077785,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+142097,Hospitalisation,2024,February,Friday,11,Sideswipe,Multi-Vehicle,-27.65097345,153.067932,4116,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,05: Lane Change,2
+142104,Hospitalisation,2024,February,Saturday,16,Hit object,Single Vehicle,-27.33400043,152.8718891,4520,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+142113,Minor injury,2024,February,Monday,7,Rear-end,Multi-Vehicle,-27.59074945,153.109183,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+142164,Hospitalisation,2024,May,Sunday,23,Hit object,Single Vehicle,-27.47368991,153.1168904,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+142177,Minor injury,2024,May,Sunday,16,Rear-end,Multi-Vehicle,-27.48940345,153.032919,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,3
+142193,Medical treatment,2024,March,Friday,15,Rear-end,Multi-Vehicle,-27.51581245,153.046372,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+142226,Medical treatment,2024,May,Thursday,17,Rear-end,Multi-Vehicle,-27.49305246,153.124933,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,05: Lane Change,3
+142274,Medical treatment,2024,June,Sunday,18,Rear-end,Multi-Vehicle,-27.63860145,153.061516,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,1
+142310,Hospitalisation,2024,June,Tuesday,6,Angle,Multi-Vehicle,-27.61312545,153.078774,4112,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,05: Lane Change,1
+142371,Medical treatment,2024,July,Monday,6,Rear-end,Multi-Vehicle,-27.31207545,153.0387041,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
+142372,Medical treatment,2024,July,Monday,7,Rear-end,Multi-Vehicle,-27.57425044,152.953248,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+142775,Medical treatment,2024,January,Monday,9,Sideswipe,Multi-Vehicle,-27.44500245,153.100628,4172,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,05: Lane Change,1
+142777,Medical treatment,2024,April,Monday,7,Sideswipe,Multi-Vehicle,-27.56046045,153.075668,4109,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,05: Lane Change,4
+142805,Hospitalisation,2024,March,Wednesday,16,Hit parked vehicle,Single Vehicle,-27.31859445,153.0494721,4017,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,10: Hit Parked Vehicle,1
+142812,Medical treatment,2024,March,Monday,15,Rear-end,Multi-Vehicle,-27.56694546,153.21142,4157,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,04: Rear-end,3
+142910,Minor injury,2024,July,Friday,12,Rear-end,Multi-Vehicle,-27.54200344,152.943963,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,2
+142912,Minor injury,2024,July,Saturday,5,Rear-end,Multi-Vehicle,-27.59285544,152.923835,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,3
+142924,Medical treatment,2024,July,Tuesday,15,Sideswipe,Multi-Vehicle,-27.46658645,153.115715,4173,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,05: Lane Change,1
+142998,Hospitalisation,2024,September,Thursday,10,Sideswipe,Multi-Vehicle,-27.58211444,152.934271,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+143038,Hospitalisation,2024,August,Tuesday,16,Hit object,Single Vehicle,-27.40735046,153.166088,4178,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+143045,Hospitalisation,2024,October,Monday,13,Hit object,Single Vehicle,-27.33726325,153.0667474,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+143057,Minor injury,2024,October,Wednesday,8,Hit object,Single Vehicle,-27.49810644,152.96333,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+143089,Minor injury,2024,October,Saturday,19,Rear-end,Multi-Vehicle,-27.50440045,153.03908,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,3
+143410,Medical treatment,2024,February,Friday,13,Hit object,Single Vehicle,-27.57965145,153.104415,4123,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+143457,Medical treatment,2024,April,Wednesday,14,Rear-end,Multi-Vehicle,-27.63967944,152.980606,4110,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+143489,Medical treatment,2024,May,Friday,8,Rear-end,Multi-Vehicle,-27.29671444,153.0177871,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+143531,Minor injury,2024,May,Tuesday,16,Sideswipe,Multi-Vehicle,-27.50495745,153.038956,4120,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+143540,Hospitalisation,2024,May,Sunday,20,Sideswipe,Multi-Vehicle,-27.52294817,153.0544738,4121,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,05: Lane Change,2
+143541,Medical treatment,2024,August,Friday,13,Angle,Multi-Vehicle,-27.50884945,153.038668,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+143564,Minor injury,2024,February,Wednesday,10,Sideswipe,Multi-Vehicle,-27.51627845,153.046692,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+143589,Minor injury,2024,July,Sunday,15,Angle,Multi-Vehicle,-27.59637544,152.921864,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+143651,Minor injury,2024,September,Monday,14,Angle,Multi-Vehicle,-27.50299546,153.125397,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+143663,Medical treatment,2024,September,Thursday,15,Angle,Multi-Vehicle,-27.60154047,153.258412,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,01: Intersection: Adjacent Approach,2
+143681,Minor injury,2024,October,Friday,23,Rear-end,Multi-Vehicle,-27.48723546,153.185006,4154,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,3
+143969,Hospitalisation,2024,January,Wednesday,15,Rear-end,Multi-Vehicle,-27.46595545,153.115027,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+144076,Medical treatment,2024,February,Tuesday,6,Rear-end,Multi-Vehicle,-27.64256545,153.016281,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+144125,Hospitalisation,2024,March,Saturday,17,Hit object,Single Vehicle,-27.60772145,153.083411,4112,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Level,19: Off Carriageway on Curve Hit Object,1
+144186,Medical treatment,2024,May,Wednesday,16,Rear-end,Multi-Vehicle,-27.50860645,153.038857,4120,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+144192,Medical treatment,2024,May,Tuesday,8,Rear-end,Multi-Vehicle,-27.50868436,153.0385925,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,3
+144267,Medical treatment,2024,August,Tuesday,14,Sideswipe,Multi-Vehicle,-27.64285845,153.019652,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+144319,Hospitalisation,2024,September,Thursday,16,Head-on,Multi-Vehicle,-27.60942447,153.234653,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,02: Head-on,2
+144765,Hospitalisation,2024,February,Monday,17,Angle,Multi-Vehicle,-27.47040046,153.134382,4173,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,03: Opposing Vehicles Turning,1
+144847,Hospitalisation,2024,May,Thursday,6,Rear-end,Multi-Vehicle,-27.64722645,153.043272,4116,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+144863,Hospitalisation,2024,May,Friday,17,Rear-end,Multi-Vehicle,-27.49975245,153.039965,4102,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,1
+144865,Hospitalisation,2024,May,Friday,18,Angle,Multi-Vehicle,-27.61418347,153.236271,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view obscured,Level,03: Opposing Vehicles Turning,3
+144892,Hospitalisation,2024,June,Monday,10,Rear-end,Multi-Vehicle,-27.51942975,153.0512417,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+144894,Medical treatment,2024,July,Thursday,15,Rear-end,Multi-Vehicle,-27.34416778,153.0768779,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,10: Hit Parked Vehicle,3
+144939,Hospitalisation,2024,August,Sunday,6,Hit object,Single Vehicle,-27.58383145,153.101246,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,16: Off Carriageway on Straight Hit Object,1
+144997,Hospitalisation,2024,July,Sunday,11,Sideswipe,Multi-Vehicle,-27.55815444,153.004602,4106,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+145004,Medical treatment,2024,July,Thursday,12,Sideswipe,Multi-Vehicle,-27.33744645,153.066921,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+145007,Medical treatment,2024,September,Saturday,8,Hit object,Single Vehicle,-27.50639244,152.962924,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+145445,Hospitalisation,2024,March,Monday,12,Hit object,Single Vehicle,-27.31055844,153.0355881,4017,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+145460,Hospitalisation,2024,March,Tuesday,15,Rear-end,Multi-Vehicle,-27.64549445,153.042366,4116,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+145507,Hospitalisation,2024,May,Monday,5,Sideswipe,Multi-Vehicle,-27.62847945,153.065523,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,05: Lane Change,1
+145525,Hospitalisation,2024,February,Saturday,18,Rear-end,Multi-Vehicle,-27.49522245,153.037128,4102,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+145666,Minor injury,2024,September,Wednesday,19,Sideswipe,Multi-Vehicle,-27.54668745,153.111122,4122,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Crest,06: Parallel Lanes Turning,2
+145672,Medical treatment,2024,September,Wednesday,19,Rear-end,Multi-Vehicle,-27.51654944,152.955586,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,04: Rear-end,3
+145686,Minor injury,2024,September,Saturday,10,Rear-end,Multi-Vehicle,-27.30955944,153.0317321,4036,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+145691,Medical treatment,2024,September,Sunday,0,Hit object,Single Vehicle,-27.39333245,153.091942,4014,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+145722,Hospitalisation,2024,October,Thursday,11,Angle,Multi-Vehicle,-27.40538345,153.091479,4008,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,05: Lane Change,2
+152135,Hospitalisation,2024,April,Tuesday,4,Sideswipe,Multi-Vehicle,-27.46549145,153.114224,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,05: Lane Change,1
+152137,Medical treatment,2024,April,Tuesday,8,Sideswipe,Multi-Vehicle,-27.46602745,153.114778,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,05: Lane Change,1
+152143,Medical treatment,2024,April,Wednesday,7,Rear-end,Multi-Vehicle,-27.46661745,153.115456,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+152155,Hospitalisation,2024,March,Tuesday,18,Sideswipe,Multi-Vehicle,-27.33165345,153.05075,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,05: Lane Change,2
+152790,Hospitalisation,2024,July,Sunday,22,Head-on,Multi-Vehicle,-27.40656145,153.096516,4008,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,02: Head-on,3
+152793,Minor injury,2024,July,Saturday,13,Angle,Multi-Vehicle,-27.50454946,153.128208,4153,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,03: Opposing Vehicles Turning,2
+152839,Medical treatment,2024,March,Tuesday,21,Sideswipe,Multi-Vehicle,-27.33322245,153.050812,4018,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,05: Lane Change,2
+153175,Minor injury,2024,July,Wednesday,19,Sideswipe,Multi-Vehicle,-27.29945444,153.0163691,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,05: Lane Change,2
+153178,Minor injury,2024,July,Tuesday,6,Rear-end,Multi-Vehicle,-27.52967345,153.057087,4121,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+153215,Hospitalisation,2024,April,Wednesday,18,Rear-end,Multi-Vehicle,-27.50909646,153.154915,4155,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,3
+153240,Medical treatment,2024,June,Monday,18,Rear-end,Multi-Vehicle,-27.30876344,153.0122021,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+153514,Hospitalisation,2024,April,Friday,16,Rear-end,Multi-Vehicle,-27.52471046,153.182099,4155,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,3
+153534,Minor injury,2024,April,Tuesday,8,Sideswipe,Multi-Vehicle,-27.45556445,153.106607,4172,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,05: Lane Change,2
+153550,Medical treatment,2024,May,Sunday,16,Angle,Multi-Vehicle,-27.50972246,153.149543,4155,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,03: Opposing Vehicles Turning,2
+153579,Hospitalisation,2024,May,Sunday,16,Rear-end,Multi-Vehicle,-27.56819447,153.250647,4164,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,04: Rear-end,3
+153596,Medical treatment,2024,May,Wednesday,15,Rear-end,Multi-Vehicle,-27.50818845,153.038591,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,5
+153619,Hospitalisation,2024,June,Wednesday,5,Sideswipe,Multi-Vehicle,-27.57462444,152.952014,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,05: Lane Change,1
+153686,Hospitalisation,2024,August,Friday,7,Rear-end,Multi-Vehicle,-27.55749145,153.110915,4123,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+153714,Minor injury,2024,September,Sunday,1,Sideswipe,Multi-Vehicle,-27.52592945,153.055924,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Curved - view open,Level,05: Lane Change,2
+153715,Hospitalisation,2024,September,Friday,14,Rear-end,Multi-Vehicle,-27.49204446,153.124516,4153,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
+153789,Medical treatment,2024,January,Friday,19,Angle,Multi-Vehicle,-27.62557547,153.287471,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,03: Opposing Vehicles Turning,2
+154132,Medical treatment,2024,February,Tuesday,16,Rear-end,Multi-Vehicle,-27.49170746,153.124333,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+154161,Minor injury,2024,January,Tuesday,7,Rear-end,Multi-Vehicle,-27.58127844,152.935107,4076,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,04: Rear-end,3
+154197,Medical treatment,2024,February,Tuesday,3,Hit object,Single Vehicle,-27.56128245,153.076584,4109,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+154210,Hospitalisation,2024,April,Thursday,16,Hit object,Single Vehicle,-27.50905946,153.147487,4155,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+154309,Minor injury,2024,August,Tuesday,16,Rear-end,Multi-Vehicle,-27.50890046,153.125265,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+154335,Hospitalisation,2024,September,Thursday,5,Sideswipe,Multi-Vehicle,-27.55132144,152.941105,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+154349,Hospitalisation,2024,September,Monday,13,Hit parked vehicle,Single Vehicle,-27.28290845,153.0649761,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,21: Other,2
+154369,Hospitalisation,2024,June,Saturday,23,Overturned,Single Vehicle,-27.51531446,153.126139,4153,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Crest,19: Off Carriageway on Curve Hit Object,1
+154391,Medical treatment,2024,October,Tuesday,8,Rear-end,Multi-Vehicle,-27.50887345,153.038612,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,3
+154726,Hospitalisation,2024,January,Tuesday,6,Rear-end,Multi-Vehicle,-27.56253244,152.940971,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+154727,Medical treatment,2024,January,Thursday,5,Sideswipe,Multi-Vehicle,-27.47950644,152.976028,4066,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,05: Lane Change,2
+154731,Medical treatment,2024,January,Thursday,7,Rear-end,Multi-Vehicle,-27.41096645,153.057517,4011,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+154815,Minor injury,2024,February,Tuesday,15,Rear-end,Multi-Vehicle,-27.31127144,153.0372331,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+154818,Hospitalisation,2024,February,Tuesday,14,Rear-end,Multi-Vehicle,-27.55955846,153.167056,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,3
+154833,Hospitalisation,2024,May,Sunday,17,Rear-end,Multi-Vehicle,-27.54554845,153.062863,4122,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,3
+154839,Hospitalisation,2024,May,Monday,7,Rear-end,Multi-Vehicle,-27.50491046,153.130912,4153,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+154840,Hospitalisation,2024,May,Monday,8,Rear-end,Multi-Vehicle,-27.53655245,153.058495,4121,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+154994,Hospitalisation,2024,August,Monday,10,Angle,Multi-Vehicle,-27.28525745,153.0626761,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,03: Opposing Vehicles Turning,2
+155099,Medical treatment,2024,October,Friday,17,Rear-end,Multi-Vehicle,-27.58355245,153.101669,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+155114,Hospitalisation,2024,October,Friday,14,Rear-end,Multi-Vehicle,-27.49532145,153.037615,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+155399,Minor injury,2024,January,Friday,7,Rear-end,Multi-Vehicle,-27.31131644,153.0373321,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+155501,Minor injury,2024,April,Friday,21,Angle,Multi-Vehicle,-27.32502744,153.0129181,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+155693,Minor injury,2024,September,Monday,23,Hit object,Single Vehicle,-27.54462345,153.117121,4156,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Crest,16: Off Carriageway on Straight Hit Object,1
+155705,Hospitalisation,2024,September,Monday,15,Rear-end,Multi-Vehicle,-27.34522814,153.0768783,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+155732,Minor injury,2024,October,Thursday,7,Hit object,Single Vehicle,-27.48483546,153.167569,4154,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+155739,Hospitalisation,2024,October,Thursday,12,Rear-end,Multi-Vehicle,-27.55079845,153.115291,4123,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+155775,Minor injury,2024,March,Monday,18,Rear-end,Multi-Vehicle,-27.51068075,152.9586415,4068,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Grade,04: Rear-end,2
+156095,Hospitalisation,2024,January,Saturday,15,Sideswipe,Multi-Vehicle,-27.40159945,153.093825,4008,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,05: Lane Change,1
+156405,Medical treatment,2024,August,Tuesday,22,Rear-end,Multi-Vehicle,-27.64900145,153.058753,4116,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,04: Rear-end,2
+156413,Medical treatment,2024,August,Thursday,16,Sideswipe,Multi-Vehicle,-27.43711245,153.096937,4009,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+156831,Minor injury,2024,February,Tuesday,11,Angle,Multi-Vehicle,-27.56256547,153.23416,4157,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,03: Opposing Vehicles Turning,2
+156861,Hospitalisation,2024,April,Tuesday,5,Rear-end,Multi-Vehicle,-27.54884464,153.1168667,4123,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+156865,Minor injury,2024,April,Wednesday,17,Sideswipe,Multi-Vehicle,-27.57963544,152.9432499,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,05: Lane Change,2
+156938,Hospitalisation,2024,January,Saturday,8,Rear-end,Multi-Vehicle,-27.56563944,152.982229,4075,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+157505,Medical treatment,2024,January,Tuesday,15,Rear-end,Multi-Vehicle,-27.58307445,153.098229,4113,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,3
+157516,Hospitalisation,2024,February,Saturday,12,Rear-end,Multi-Vehicle,-27.55045246,153.139729,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+157552,Minor injury,2024,January,Tuesday,12,Rear-end,Multi-Vehicle,-27.49182846,153.2023,4159,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+157570,Hospitalisation,2024,January,Wednesday,13,Head-on,Multi-Vehicle,-27.63380644,152.95321,4124,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+157739,Hospitalisation,2024,May,Thursday,19,Hit object,Single Vehicle,-27.55344444,152.940834,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,21: Other,1
+158113,Medical treatment,2024,March,Sunday,8,Rear-end,Multi-Vehicle,-27.52469345,153.055575,4121,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,10: Hit Parked Vehicle,2
+158156,Medical treatment,2024,January,Sunday,12,Rear-end,Multi-Vehicle,-27.48560346,153.174749,4154,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+158178,Medical treatment,2024,May,Friday,9,Rear-end,Multi-Vehicle,-27.57247044,152.957896,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+158241,Hospitalisation,2024,March,Friday,10,Sideswipe,Multi-Vehicle,-27.49233546,153.124436,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+158298,Hospitalisation,2024,May,Monday,7,Angle,Multi-Vehicle,-27.28531145,153.0625711,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,07: U-turn,1
+158347,Hospitalisation,2024,March,Monday,16,Angle,Multi-Vehicle,-27.50521146,153.177226,4154,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Level,01: Intersection: Adjacent Approach,2
+158373,Medical treatment,2024,March,Friday,6,Hit object,Single Vehicle,-27.63632147,153.23909,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+158398,Hospitalisation,2024,March,Monday,7,Rear-end,Multi-Vehicle,-27.58861945,153.107739,4113,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,04: Rear-end,2
+158703,Medical treatment,2024,January,Saturday,17,Angle,Multi-Vehicle,-27.61404247,153.236269,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,03: Opposing Vehicles Turning,2
+158723,Hospitalisation,2024,January,Friday,12,Rear-end,Multi-Vehicle,-27.29964044,153.0167041,4036,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,3
+158760,Minor injury,2024,August,Monday,9,Rear-end,Multi-Vehicle,-27.52460347,153.236188,4161,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,04: Rear-end,2
+164352,Hospitalisation,2024,July,Monday,22,Rear-end,Multi-Vehicle,-27.64421645,153.027706,4115,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,04: Rear-end,2
+164651,Medical treatment,2024,March,Tuesday,9,Hit object,Single Vehicle,-27.55344245,153.069596,4122,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+164902,Hospitalisation,2024,February,Tuesday,9,Angle,Multi-Vehicle,-27.54722746,153.134206,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,01: Intersection: Adjacent Approach,2
+164938,Hospitalisation,2024,March,Friday,14,Sideswipe,Multi-Vehicle,-27.34755245,153.077538,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,3
+164970,Fatal,2024,May,Wednesday,15,Rear-end,Multi-Vehicle,-27.46803144,152.994876,4064,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+165480,Hospitalisation,2024,February,Monday,5,Rear-end,Multi-Vehicle,-27.58883845,153.107846,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,4
+165525,Hospitalisation,2024,January,Thursday,14,Head-on,Multi-Vehicle,-27.50584345,153.038805,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+165531,Medical treatment,2024,January,Thursday,16,Rear-end,Multi-Vehicle,-27.51481444,152.956535,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,2
+165535,Medical treatment,2024,May,Wednesday,5,Rear-end,Multi-Vehicle,-27.64285145,153.01815,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+165826,Medical treatment,2024,June,Monday,17,Rear-end,Multi-Vehicle,-27.33166844,153.0127581,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
+242171,Hospitalisation,2024,August,Tuesday,12,Rear-end,Multi-Vehicle,-27.57026844,152.965153,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+242510,Medical treatment,2024,July,Wednesday,6,Rear-end,Multi-Vehicle,-27.29851944,153.0173011,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,3
+276189,Hospitalisation,2024,May,Thursday,8,Angle,Multi-Vehicle,-27.33857744,153.0100941,4034,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+279125,Hospitalisation,2024,August,Monday,16,Rear-end,Multi-Vehicle,-27.34553045,153.076981,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,4
+279140,Medical treatment,2024,August,Friday,10,Rear-end,Multi-Vehicle,-27.50890745,153.038756,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+279145,Medical treatment,2024,September,Tuesday,13,Rear-end,Multi-Vehicle,-27.62803147,153.236792,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,2
+279275,Hospitalisation,2024,June,Thursday,23,Overturned,Single Vehicle,-27.52469946,153.124905,4153,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Dip,15: Off Carriageway on Straight,1
+279337,Medical treatment,2024,September,Wednesday,6,Sideswipe,Multi-Vehicle,-27.56597245,153.083303,4109,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+279360,Medical treatment,2024,September,Thursday,16,Sideswipe,Multi-Vehicle,-27.54763844,152.941475,4074,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+279523,Hospitalisation,2024,October,Friday,22,Sideswipe,Multi-Vehicle,-27.52892045,153.056908,4121,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+279527,Minor injury,2024,October,Thursday,18,Rear-end,Multi-Vehicle,-27.65149745,153.040816,4116,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+279707,Hospitalisation,2024,December,Sunday,15,Hit object,Single Vehicle,-27.64190744,152.990896,4110,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+281431,Hospitalisation,2024,July,Wednesday,18,Rear-end,Multi-Vehicle,-27.51435045,153.042722,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,04: Rear-end,4
+281534,Medical treatment,2024,December,Saturday,22,Angle,Multi-Vehicle,-27.58639745,153.103154,4113,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,03: Opposing Vehicles Turning,2
+282349,Medical treatment,2024,August,Wednesday,20,Rear-end,Multi-Vehicle,-27.53361345,153.057902,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,04: Rear-end,3
+282358,Medical treatment,2024,August,Friday,13,Hit object,Single Vehicle,-27.57437544,152.952986,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,16: Off Carriageway on Straight Hit Object,1
+282388,Minor injury,2024,April,Monday,12,Hit object,Single Vehicle,-27.55893446,153.170803,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+282389,Hospitalisation,2024,December,Thursday,13,Angle,Multi-Vehicle,-27.46339546,153.144944,4178,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,03: Opposing Vehicles Turning,1
+282717,Hospitalisation,2024,June,Friday,22,Hit object,Single Vehicle,-27.29521145,153.0487551,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+283482,Medical treatment,2024,July,Tuesday,6,Sideswipe,Multi-Vehicle,-27.46533945,153.114125,4173,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,05: Lane Change,3
+283506,Medical treatment,2024,July,Wednesday,17,Rear-end,Multi-Vehicle,-27.50830246,153.125054,4153,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+303545,Medical treatment,2024,May,Wednesday,4,Sideswipe,Multi-Vehicle,-27.57354144,152.955604,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,05: Lane Change,2
+304077,Minor injury,2024,January,Sunday,9,Hit object,Single Vehicle,-27.53896145,153.118185,4156,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+304104,Medical treatment,2024,February,Sunday,7,Hit object,Single Vehicle,-27.32936944,153.0120111,4036,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,20: Out of Control on Curve,1
+304161,Minor injury,2024,January,Tuesday,12,Rear-end,Multi-Vehicle,-27.35733445,153.090797,4014,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,05: Lane Change,2
+304172,Hospitalisation,2024,April,Monday,15,Rear-end,Multi-Vehicle,-27.44447245,153.100495,4009,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,05: Lane Change,2
+304189,Medical treatment,2024,May,Saturday,18,Angle,Multi-Vehicle,-27.49551445,153.037512,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,05: Lane Change,2
+304211,Hospitalisation,2024,June,Wednesday,14,Rear-end,Multi-Vehicle,-27.44235745,153.099912,4009,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,1
+304401,Medical treatment,2024,September,Friday,8,Rear-end,Multi-Vehicle,-27.31124544,153.0375121,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,21: Other,2
+309212,Minor injury,2024,October,Tuesday,17,Rear-end,Multi-Vehicle,-27.45589245,153.107107,4172,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,2
+309213,Medical treatment,2024,October,Friday,17,Rear-end,Multi-Vehicle,-27.33742445,153.066153,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,4
+309620,Minor injury,2024,November,Sunday,19,Rear-end,Multi-Vehicle,-27.49649944,152.964067,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+309950,Hospitalisation,2024,October,Saturday,18,Angle,Multi-Vehicle,-27.37675343,152.8363431,4520,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,01: Intersection: Adjacent Approach,2
+309959,Hospitalisation,2024,October,Monday,6,Rear-end,Multi-Vehicle,-27.43644745,153.031466,4030,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,3
+310194,Hospitalisation,2024,March,Saturday,5,Head-on,Multi-Vehicle,-27.46639409,153.0352219,4169,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,02: Head-on,2
+310616,Medical treatment,2024,March,Tuesday,9,Rear-end,Multi-Vehicle,-27.50174145,153.039527,4120,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,4
+310627,Minor injury,2024,March,Tuesday,18,Angle,Multi-Vehicle,-27.47848845,153.027438,4000,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,05: Lane Change,2
+312593,Minor injury,2024,June,Thursday,9,Rear-end,Multi-Vehicle,-27.40372245,153.075162,4012,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,1
+312660,Medical treatment,2024,June,Wednesday,17,Rear-end,Multi-Vehicle,-27.56929944,152.968058,4075,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,3
+312870,Hospitalisation,2024,June,Wednesday,18,Rear-end,Multi-Vehicle,-27.47100945,153.117262,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,1
+312877,Medical treatment,2024,June,Friday,16,Sideswipe,Multi-Vehicle,-27.33198345,153.050689,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,05: Lane Change,2
+312890,Hospitalisation,2024,July,Monday,7,Sideswipe,Multi-Vehicle,-27.53632646,153.120375,4156,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,05: Lane Change,1
+312932,Hospitalisation,2024,November,Wednesday,17,Overturned,Single Vehicle,-27.50758045,153.038363,4120,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+312938,Minor injury,2024,November,Wednesday,16,Rear-end,Multi-Vehicle,-27.50893046,153.125244,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+312955,Hospitalisation,2024,December,Thursday,9,Rear-end,Multi-Vehicle,-27.50366145,153.039146,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+312974,Hospitalisation,2024,August,Monday,11,Angle,Multi-Vehicle,-27.52433047,153.239986,4161,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,01: Intersection: Adjacent Approach,2
+313060,Medical treatment,2024,November,Wednesday,9,Sideswipe,Multi-Vehicle,-27.34411945,153.076916,4034,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,05: Lane Change,2
+313795,Hospitalisation,2024,October,Monday,5,Hit object,Single Vehicle,-27.60704845,153.083916,4112,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,21: Other,1
+329994,Medical treatment,2024,February,Wednesday,6,Rear-end,Multi-Vehicle,-27.57670144,152.944787,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+334034,Medical treatment,2024,February,Tuesday,15,Rear-end,Multi-Vehicle,-27.36865414,153.0972009,4014,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+336442,Medical treatment,2024,May,Wednesday,18,Rear-end,Multi-Vehicle,-27.30123944,153.0162141,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,04: Rear-end,2
+336464,Medical treatment,2024,October,Wednesday,14,Rear-end,Multi-Vehicle,-27.61417347,153.236342,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,2
+336867,Hospitalisation,2024,November,Thursday,16,Rear-end,Multi-Vehicle,-27.44751245,153.125589,4174,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,3
+336919,Medical treatment,2024,October,Wednesday,5,Rear-end,Multi-Vehicle,-27.39433945,153.107462,4008,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Crest,04: Rear-end,3
+336923,Hospitalisation,2024,October,Wednesday,13,Head-on,Multi-Vehicle,-27.55878446,153.160166,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,02: Head-on,2
+336939,Minor injury,2024,October,Tuesday,6,Rear-end,Multi-Vehicle,-27.51738945,153.048953,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+336966,Medical treatment,2024,November,Tuesday,13,Rear-end,Multi-Vehicle,-27.61417747,153.236335,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,2
+337198,Hospitalisation,2024,July,Monday,16,Sideswipe,Multi-Vehicle,-27.60294444,152.919142,4076,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,05: Lane Change,1
+337262,Medical treatment,2024,November,Friday,9,Rear-end,Multi-Vehicle,-27.51537611,152.9561027,4068,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,04: Rear-end,2
+337403,Hospitalisation,2024,March,Tuesday,12,Sideswipe,Multi-Vehicle,-27.57668945,153.106152,4123,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,08: Vehicle Leaving Driveway,1
+337470,Hospitalisation,2024,June,Monday,17,Angle,Multi-Vehicle,-27.50187846,153.175074,4154,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,01: Intersection: Adjacent Approach,1
+337633,Minor injury,2024,November,Tuesday,15,Angle,Multi-Vehicle,-27.51131545,153.040115,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+337638,Minor injury,2024,December,Friday,14,Angle,Multi-Vehicle,-27.38692643,152.8612991,4520,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,01: Intersection: Adjacent Approach,2
+337663,Minor injury,2024,December,Saturday,10,Rear-end,Multi-Vehicle,-27.62818847,153.236749,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,04: Rear-end,2
+337686,Hospitalisation,2024,November,Thursday,16,Sideswipe,Multi-Vehicle,-27.33411395,153.0511837,4018,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,15: Off Carriageway on Straight,2
+337700,Hospitalisation,2024,December,Sunday,16,Hit object,Single Vehicle,-27.32937344,153.0118881,4036,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+337708,Hospitalisation,2024,December,Monday,8,Rear-end,Multi-Vehicle,-27.44013945,153.031646,4030,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+337721,Medical treatment,2024,December,Thursday,16,Sideswipe,Multi-Vehicle,-27.28205045,153.0650121,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+337726,Hospitalisation,2024,December,Thursday,16,Rear-end,Multi-Vehicle,-27.56262444,152.993725,4106,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+337778,Hospitalisation,2024,September,Tuesday,17,Rear-end,Multi-Vehicle,-27.49287546,153.209325,4159,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+337797,Hospitalisation,2024,October,Tuesday,6,Rear-end,Multi-Vehicle,-27.64287119,153.0196609,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+337804,Minor injury,2024,December,Monday,17,Rear-end,Multi-Vehicle,-27.51562945,153.045951,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+337845,Hospitalisation,2024,April,Monday,9,Rear-end,Multi-Vehicle,-27.53824245,153.118848,4156,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Grade,04: Rear-end,2
+337851,Hospitalisation,2024,April,Tuesday,7,Angle,Multi-Vehicle,-27.50886446,153.157201,4155,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,08: Vehicle Leaving Driveway,1
+337863,Medical treatment,2024,March,Tuesday,7,Rear-end,Multi-Vehicle,-27.58735945,153.106911,4113,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,3
+337910,Minor injury,2024,June,Monday,10,Struck by external load,Other,-27.56629044,152.979934,4075,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,21: Other,2
+338139,Hospitalisation,2024,December,Monday,11,Angle,Multi-Vehicle,-27.52837346,153.123733,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+338145,Minor injury,2024,December,Friday,16,Rear-end,Multi-Vehicle,-27.51248644,152.957706,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+338166,Medical treatment,2024,December,Tuesday,15,Angle,Multi-Vehicle,-27.58434247,153.223236,4157,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,01: Intersection: Adjacent Approach,2
+338198,Minor injury,2024,November,Wednesday,7,Overturned,Single Vehicle,-27.57645947,153.257132,4164,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,04: Rear-end,5
+338250,Medical treatment,2024,December,Monday,0,Hit object,Single Vehicle,-27.40924142,152.8003291,4520,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Not lighted,Curved - view obscured,Dip,19: Off Carriageway on Curve Hit Object,1
+338270,Medical treatment,2024,April,Wednesday,16,Rear-end,Multi-Vehicle,-27.64902444,153.0546973,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+338278,Minor injury,2024,April,Tuesday,16,Rear-end,Multi-Vehicle,-27.56532344,152.985213,4075,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+338486,Hospitalisation,2024,May,Monday,19,Angle,Multi-Vehicle,-27.55815646,153.178146,4156,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,06: Parallel Lanes Turning,2
+338514,Medical treatment,2024,March,Thursday,16,Rear-end,Multi-Vehicle,-27.59326644,152.997091,4110,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,4
+338554,Medical treatment,2024,October,Saturday,17,Rear-end,Multi-Vehicle,-27.50341545,153.039289,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+338560,Medical treatment,2024,May,Friday,9,Rear-end,Multi-Vehicle,-27.50521146,153.177226,4154,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+338584,Medical treatment,2024,March,Sunday,20,Rear-end,Multi-Vehicle,-27.48796645,153.032704,4102,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+338640,Hospitalisation,2024,December,Wednesday,19,Head-on,Multi-Vehicle,-27.59405644,153.002826,4110,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,02: Head-on,2
+339149,Hospitalisation,2024,November,Monday,14,Sideswipe,Multi-Vehicle,-27.35428945,153.07963,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,08: Vehicle Leaving Driveway,2
+339154,Hospitalisation,2024,November,Friday,8,Rear-end,Multi-Vehicle,-27.53659645,153.058529,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,4
+339164,Hospitalisation,2024,November,Wednesday,7,Sideswipe,Multi-Vehicle,-27.43698545,153.096222,4009,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,05: Lane Change,2
+339174,Hospitalisation,2024,November,Thursday,12,Sideswipe,Multi-Vehicle,-27.64212745,153.061195,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,3
+339183,Medical treatment,2024,November,Friday,7,Hit object,Single Vehicle,-27.55218144,152.941085,4074,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,05: Lane Change,2
+339212,Medical treatment,2024,January,Monday,8,Sideswipe,Multi-Vehicle,-27.53718846,153.119829,4156,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+357229,Medical treatment,2024,January,Thursday,7,Rear-end,Multi-Vehicle,-27.37066844,152.9801191,4035,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,04: Rear-end,2
+357280,Medical treatment,2024,April,Wednesday,14,Rear-end,Multi-Vehicle,-27.54396344,152.942824,4073,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+357371,Medical treatment,2024,September,Thursday,21,Overturned,Single Vehicle,-27.32879444,153.0121481,4036,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,17: Out of Control on Straight,1
+357384,Hospitalisation,2024,September,Wednesday,6,Rear-end,Multi-Vehicle,-27.50885945,153.038708,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,5
+357387,Hospitalisation,2024,September,Friday,23,Hit object,Single Vehicle,-27.59807044,152.921054,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+357399,Hospitalisation,2024,April,Friday,14,Hit object,Single Vehicle,-27.52704144,152.947098,4069,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+357456,Minor injury,2024,October,Tuesday,6,Rear-end,Multi-Vehicle,-27.30472344,153.0237191,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+357499,Minor injury,2024,July,Thursday,9,Rear-end,Multi-Vehicle,-27.29512845,153.0182637,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+357533,Medical treatment,2024,December,Monday,19,Hit object,Single Vehicle,-27.36940643,152.8573251,4520,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+357548,Medical treatment,2024,December,Monday,17,Rear-end,Multi-Vehicle,-27.49980844,152.963086,4068,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+373007,Medical treatment,2024,September,Friday,5,Rear-end,Multi-Vehicle,-27.57349344,152.955292,4076,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,1
+373031,Medical treatment,2024,March,Saturday,12,Rear-end,Multi-Vehicle,-27.42793245,153.079902,4009,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+373050,Hospitalisation,2024,March,Wednesday,16,Rear-end,Multi-Vehicle,-27.33390944,153.0108271,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,4
+373052,Medical treatment,2024,February,Wednesday,7,Rear-end,Multi-Vehicle,-27.60628945,153.084049,4112,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+373248,Hospitalisation,2024,November,Saturday,10,Rear-end,Multi-Vehicle,-27.30511244,153.0245931,4036,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,04: Rear-end,3
+373406,Hospitalisation,2024,July,Monday,11,Rear-end,Multi-Vehicle,-27.58176544,152.934347,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+373439,Medical treatment,2024,August,Thursday,12,Rear-end,Multi-Vehicle,-27.59415944,153.003588,4110,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+373441,Hospitalisation,2024,August,Thursday,8,Rear-end,Multi-Vehicle,-27.59169247,153.218453,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+373450,Medical treatment,2024,August,Friday,9,Sideswipe,Multi-Vehicle,-27.60135244,152.920277,4076,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+373479,Hospitalisation,2024,September,Saturday,18,Rear-end,Multi-Vehicle,-27.49635745,153.038017,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,05: Lane Change,3
+373509,Medical treatment,2024,September,Tuesday,7,Rear-end,Multi-Vehicle,-27.56836945,153.086977,4109,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,5
+373537,Hospitalisation,2024,May,Friday,3,Hit object,Single Vehicle,-27.47678745,153.026223,4000,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,16: Off Carriageway on Straight Hit Object,1
+373539,Hospitalisation,2024,May,Friday,5,Hit object,Single Vehicle,-27.62313147,153.236535,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,19: Off Carriageway on Curve Hit Object,1
+382507,Hospitalisation,2024,November,Tuesday,14,Rear-end,Multi-Vehicle,-27.30264944,153.0178311,4036,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,04: Rear-end,3
+382528,Medical treatment,2024,September,Friday,3,Sideswipe,Multi-Vehicle,-27.63454961,152.969754,4078,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,05: Lane Change,1
+385334,Medical treatment,2024,February,Monday,14,Angle,Multi-Vehicle,-27.49933346,153.125871,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,05: Lane Change,1
+385359,Medical treatment,2024,August,Saturday,17,Hit object,Single Vehicle,-27.56488247,153.229796,4157,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+385376,Hospitalisation,2024,June,Thursday,14,Rear-end,Multi-Vehicle,-27.42390145,153.033406,4030,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+385388,Minor injury,2024,June,Thursday,15,Rear-end,Multi-Vehicle,-27.50872145,153.038605,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,04: Rear-end,3
+388515,Hospitalisation,2024,October,Thursday,13,Sideswipe,Multi-Vehicle,-27.46619945,153.114869,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+388530,Medical treatment,2024,October,Friday,6,Rear-end,Multi-Vehicle,-27.45534145,153.107115,4172,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,2
+389650,Hospitalisation,2024,March,Saturday,14,Rear-end,Multi-Vehicle,-27.27797745,153.0687861,4503,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+389905,Medical treatment,2024,January,Friday,9,Rear-end,Multi-Vehicle,-27.64806145,153.041888,4116,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+390635,Hospitalisation,2024,May,Saturday,0,Rear-end,Multi-Vehicle,-27.49265945,153.035219,4102,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,04: Rear-end,3
+390655,Fatal,2024,June,Tuesday,8,Rear-end,Multi-Vehicle,-27.33996944,153.0106631,4034,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+390806,Medical treatment,2024,August,Tuesday,14,Rear-end,Multi-Vehicle,-27.56794445,153.08679,4109,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
+391366,Medical treatment,2024,May,Thursday,5,Rear-end,Multi-Vehicle,-27.32927845,153.051187,4017,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Grade,04: Rear-end,5
+391837,Medical treatment,2024,June,Saturday,17,Rear-end,Multi-Vehicle,-27.50737945,153.03877,4120,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+391842,Hospitalisation,2024,May,Tuesday,14,Head-on,Multi-Vehicle,-27.51745947,153.255269,4160,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,02: Head-on,2
+391863,Hospitalisation,2024,June,Tuesday,15,Rear-end,Multi-Vehicle,-27.58351389,153.1047388,4123,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+391867,Medical treatment,2024,June,Wednesday,6,Rear-end,Multi-Vehicle,-27.49558345,153.037372,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+391868,Medical treatment,2024,June,Thursday,6,Rear-end,Multi-Vehicle,-27.64256545,153.016281,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
+391878,Hospitalisation,2024,August,Monday,16,Angle,Multi-Vehicle,-27.54259144,153.012373,4106,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,05: Lane Change,1
+391892,Hospitalisation,2024,July,Monday,15,Rear-end,Multi-Vehicle,-27.59197145,153.110134,4123,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+392376,Minor injury,2024,October,Friday,14,Rear-end,Multi-Vehicle,-27.31134444,153.0367261,4017,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+392773,Medical treatment,2024,June,Wednesday,14,Rear-end,Multi-Vehicle,-27.31282945,153.0411411,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,1
+392794,Medical treatment,2024,July,Tuesday,5,Sideswipe,Multi-Vehicle,-27.61134744,152.943262,4078,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,05: Lane Change,1
+393630,Minor injury,2024,August,Monday,5,Rear-end,Multi-Vehicle,-27.41019145,153.094239,4008,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+393640,Medical treatment,2024,August,Monday,6,Fall from vehicle,Single Vehicle,-27.30363844,153.0211551,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,21: Other,1
+394913,Hospitalisation,2024,September,Thursday,16,Overturned,Single Vehicle,-27.35700444,152.9477171,4055,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view obscured,Level,21: Other,1
+394931,Medical treatment,2024,September,Monday,14,Rear-end,Multi-Vehicle,-27.53910644,152.946168,4073,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+395052,Hospitalisation,2024,May,Thursday,8,Angle,Multi-Vehicle,-27.59295444,152.993614,4077,Brisbane,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Level,06: Parallel Lanes Turning,1
+395146,Medical treatment,2024,November,Thursday,18,Rear-end,Multi-Vehicle,-27.49525445,153.03767,4102,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,3
+395164,Minor injury,2024,December,Tuesday,14,Rear-end,Multi-Vehicle,-27.31293445,153.0437161,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+395200,Minor injury,2024,May,Friday,22,Head-on,Multi-Vehicle,-27.58617971,153.1027392,4113,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,02: Head-on,2
+395311,Hospitalisation,2024,May,Friday,14,Sideswipe,Multi-Vehicle,-27.49225646,153.124397,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,2
+395806,Minor injury,2024,September,Sunday,15,Sideswipe,Multi-Vehicle,-27.55679944,153.009166,4106,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,05: Lane Change,2
+395868,Hospitalisation,2024,November,Saturday,5,Hit object,Single Vehicle,-27.59379945,153.111551,4123,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+400431,Hospitalisation,2024,May,Thursday,7,Rear-end,Multi-Vehicle,-27.64765545,153.04937,4116,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+400614,Medical treatment,2024,December,Wednesday,6,Sideswipe,Multi-Vehicle,-27.54211245,153.117042,4156,Brisbane,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,05: Lane Change,2
+400636,Medical treatment,2024,July,Friday,15,Rear-end,Multi-Vehicle,-27.57626893,153.0999098,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,04: Rear-end,2
+400638,Medical treatment,2024,July,Friday,18,Rear-end,Multi-Vehicle,-27.30540244,153.0248081,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,4
+400647,Medical treatment,2024,July,Saturday,12,Rear-end,Multi-Vehicle,-27.30737044,153.0280211,4036,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+401228,Hospitalisation,2024,March,Monday,6,Rear-end,Multi-Vehicle,-27.59036645,153.108771,4113,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+401321,Hospitalisation,2024,February,Saturday,18,Angle,Multi-Vehicle,-27.46530945,153.11422,4173,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Dawn/Dusk,Straight,Grade,06: Parallel Lanes Turning,1
+402636,Hospitalisation,2024,August,Thursday,8,Rear-end,Multi-Vehicle,-27.48722146,153.185084,4154,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+402910,Minor injury,2024,January,Monday,7,Sideswipe,Multi-Vehicle,-27.58648944,152.947801,4077,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,05: Lane Change,1
+403147,Medical treatment,2024,July,Sunday,20,Rear-end,Multi-Vehicle,-27.64307345,153.01969,4115,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+403206,Hospitalisation,2024,August,Thursday,15,Sideswipe,Multi-Vehicle,-27.32897044,153.0121241,4036,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+403472,Medical treatment,2024,March,Wednesday,8,Rear-end,Multi-Vehicle,-27.57289744,152.956877,4076,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+403579,Hospitalisation,2024,March,Thursday,1,Hit object,Single Vehicle,-27.64214908,153.0432966,4115,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,19: Off Carriageway on Curve Hit Object,1
+404137,Hospitalisation,2024,May,Wednesday,14,Sideswipe,Multi-Vehicle,-27.53691146,153.11975,4156,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+404749,Medical treatment,2024,November,Friday,12,Rear-end,Multi-Vehicle,-27.59114245,153.109275,4113,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,2
+404806,Minor injury,2024,April,Monday,5,Rear-end,Multi-Vehicle,-27.33738345,153.067794,4034,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,1
+405233,Minor injury,2024,April,Monday,12,Angle,Multi-Vehicle,-27.56224944,152.993634,4106,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+405689,Minor injury,2024,May,Sunday,8,Rear-end,Multi-Vehicle,-27.51374446,153.125874,4153,Brisbane,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,04: Rear-end,1
+405882,Hospitalisation,2024,August,Monday,16,Rear-end,Multi-Vehicle,-27.51464945,153.043299,4120,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,6
+406005,Hospitalisation,2024,June,Wednesday,3,Hit object,Single Vehicle,-27.29687745,153.0479941,4017,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Curved - view open,Crest,19: Off Carriageway on Curve Hit Object,1
+406044,Medical treatment,2024,July,Wednesday,8,Angle,Multi-Vehicle,-27.46268245,153.111548,4172,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,05: Lane Change,1
+406050,Hospitalisation,2024,July,Friday,11,Rear-end,Multi-Vehicle,-27.54182544,152.944143,4074,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,5
+406062,Minor injury,2024,July,Friday,17,Rear-end,Multi-Vehicle,-27.46401245,153.113086,4173,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,3
+406095,Hospitalisation,2024,February,Saturday,12,Rear-end,Multi-Vehicle,-27.52314845,153.054193,4121,Brisbane,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,04: Rear-end,2
+406427,Hospitalisation,2024,April,Wednesday,20,Hit object,Single Vehicle,-27.48655446,153.180177,4154,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,16: Off Carriageway on Straight Hit Object,1
+406429,Hospitalisation,2024,February,Tuesday,9,Rear-end,Multi-Vehicle,-27.27367145,153.0720461,4503,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,04: Rear-end,1
+406470,Minor injury,2024,April,Thursday,15,Rear-end,Multi-Vehicle,-27.50608445,153.03899,4120,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,04: Rear-end,3
+406491,Minor injury,2024,April,Friday,18,Rear-end,Multi-Vehicle,-27.49637745,153.038464,4102,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,2
+406493,Hospitalisation,2024,December,Tuesday,13,Angle,Multi-Vehicle,-27.62542347,153.287621,4165,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,03: Opposing Vehicles Turning,1
+406509,Medical treatment,2024,June,Wednesday,17,Rear-end,Multi-Vehicle,-27.48819745,153.122075,4153,Brisbane,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,04: Rear-end,4
+406644,Medical treatment,2024,June,Sunday,16,Rear-end,Multi-Vehicle,-27.52379444,152.947701,4069,Brisbane,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,04: Rear-end,2
