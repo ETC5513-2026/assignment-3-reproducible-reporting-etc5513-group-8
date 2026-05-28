@@ -3,8 +3,8 @@
 Group Members:
 
 * Jacqueline Gunawan
-* Chung Yu Lin
+* Yu-Lin Chung 
 * Aditya Sharma
-* Kai Hong Su
+* Kai-Hong Su
 
 Topic: Queensland Roads
