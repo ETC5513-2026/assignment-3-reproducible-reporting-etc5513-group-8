@@ -46,12 +46,6 @@ Key variables retained for analysis include crash severity, road surface conditi
 
 The central research question guiding this analysis is: *what road, environmental, and temporal factors are most associated with crash severity outcomes on high-speed roads in Brisbane, and can these patterns inform targeted road safety interventions?*
 
-how many car crashes occur on high speed roads, during which weather, and what road conditions 
-how road conditions affect road safety in high speed areas
-high speed roads within brisbane (80-110)
-
-Max 10 sentences
-
 
 # Methodology
 
