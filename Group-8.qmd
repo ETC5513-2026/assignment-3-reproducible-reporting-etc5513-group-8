@@ -30,7 +30,25 @@ library(knitr)
 Max 4 sentences
 
 
+
 # Introduction
+
+Road traffic crashes remain a critical public health challenge globally, with approximately 1.19 million people dying each year as a result of road traffic injuries [@who2023factsheet].
+Road traffic injuries are also the leading cause of death for children and young adults aged 5 to 29 years, underscoring the urgency of targeted prevention efforts [@who2023factsheet].
+Speed is a particularly significant risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk and a 3% increase in serious crash risk [@who2023factsheet].
+High-speed roads are therefore disproportionately associated with severe crash outcomes, making them a priority area for road safety analysis.
+
+Brisbane, as Queensland's most populous city, presents a complex road safety environment shaped by diverse road conditions and extensive high-speed arterial networks operating at 80 to 110 km/h.
+In 2024, Queensland recorded 303 fatalities on its roads, the worst toll since 2009, with speeding identified as a key contributing factor [@qldgov2025].
+Despite this, detailed analyses of how road conditions, environmental factors, and temporal patterns interact to influence crash severity specifically on Brisbane's high-speed roads remain limited.
+This report addresses that gap using a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
+Key variables retained for analysis include crash severity, road surface condition, atmospheric condition, lighting, road geometry, crash nature and type, speed limit band, and temporal indicators such as hour of day, day of week, and month.
+
+The central research question guiding this analysis is: *what road, environmental, and temporal factors are most associated with crash severity outcomes on high-speed roads in Brisbane, and can these patterns inform targeted road safety interventions?*
+
+how many car crashes occur on high speed roads, during which weather, and what road conditions 
+how road conditions affect road safety in high speed areas
+high speed roads within brisbane (80-110)
 
 Max 10 sentences
 
