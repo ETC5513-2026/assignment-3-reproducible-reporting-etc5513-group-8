@@ -1,5 +1,5 @@
 ---
-title: "Queensland Road Safety"
+title: "Crash Type and Severity on High-Speed Roads in Brisbane"
 author: "Jacqueline Gunawan", 
         "Chung Yu Lin", 
         "Kai Aditya Sharma", 
@@ -44,7 +44,7 @@ Despite this, detailed analyses of how road conditions, environmental factors, a
 This report addresses that gap using a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
 Key variables retained for analysis include crash severity, road surface condition, atmospheric condition, lighting, road geometry, crash nature and type, speed limit band, and temporal indicators such as hour of day, day of week, and month.
 
-The central research question guiding this analysis is: *what road, environmental, and temporal factors are most associated with crash severity outcomes on high-speed roads in Brisbane, and can these patterns inform targeted road safety interventions?*
+The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
 
 
 # Methodology
