@@ -1,9 +1,10 @@
 ---
 title: "Queensland Road Safety"
-author: "Jacqueline Gunawan", 
-        "Chung Yu Lin", 
-        "Kai Aditya Sharma", 
-        "Kai Hong Su"
+author: 
+  - Jacqueline Gunawan
+  - Yu-Lin Chung
+  - Kai Aditya Sharma
+  - Kai-Hong Su 
 format: 
   pdf:
     toc: true
@@ -24,16 +25,13 @@ library(dplyr)
 library(knitr)
 ```
 
-
 # Executive Summary
 
 Max 4 sentences
 
-
 # Introduction
 
 Max 10 sentences
-
 
 # Methodology
 
@@ -53,15 +51,15 @@ Max 300 words
 # table code
 ```
 
-
 # Results
 
 Max 200 words
+
 ```{r}
+# read data
 raw_data <- read.csv("data/cleaned_dataset.csv")
-str(data)
 
-
+# transform data
 data <- raw_data|>
   mutate(
     Crash_Severity = factor(
@@ -87,18 +85,77 @@ data <- raw_data|>
 
 ```
 
-# How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
-# Which crash types or crash natures are more commonly associated with serious outcomes?
-# Do lighting and road surface conditions appear to be related to crash severity?
+## How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 ```{r}
-#| label: fig-results-plot
-#| fig-cap: "Caption for results figure."
+#| label: fig-crash-severity
+#| fig-cap: "Distribution of Crash Severity Outcomes"
 
-# plot
+# plot for "How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?"
 data |>
-  autoplot()
+  count(Crash_Severity) |>
+  mutate(
+    percent = n / sum(n),
+    label = scales::percent(percent, accuracy = 0.1)
+  ) |>
+  ggplot(aes(x = Crash_Severity, y = n)) +
+  geom_col() +
+  geom_text(aes(label = label), hjust = -0.1) +
+  coord_flip() +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(
+    title = "Distribution of Crash Severity Outcomes",
+    x = "Crash severity",
+    y = "Number of crashes"
+  )
 ```
 
+@fig-crash-severity shows the overall distribution of crash severity outcomes. Hospitalisation and medical treatment crashes accounted for the largest shares, while fatal crashes represented only a small proportion of the dataset.
+
+
+## Which crash types or crash natures are more commonly associated with serious outcomes?
+```{r}
+#| label: serious rate
+#| fig-cap: "Serious Outcome Rate by Top Crash Natures"
+
+top_natures <- data |>
+  count(Crash_Nature, sort = TRUE) |>
+  slice_head(n = 6) |>
+  pull(Crash_Nature)
+
+data |>
+  mutate(
+    Serious_Outcome = if_else(
+      Crash_Severity %in% c("Hospitalisation", "Fatal"),
+      "Serious",
+      "Non-serious"
+    )
+  ) |>
+  filter(Crash_Nature %in% top_natures) |>
+  group_by(Crash_Nature) |>
+  summarise(
+  total_crashes = n(),
+  serious_crashes = sum(Serious_Outcome == "Serious"),
+  serious_rate = serious_crashes / total_crashes,
+  .groups = "drop"
+  ) |>
+  ggplot(aes(x = reorder(Crash_Nature, serious_rate), y = serious_rate)) +
+  geom_col() +
+  geom_text(
+    aes(label = scales::percent(serious_rate, accuracy = 0.1)),
+    hjust = -0.1
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    labels = scales::percent,
+    expand = expansion(mult = c(0, 0.15))
+  ) +
+  labs(
+    title = "Serious Outcome Rate by Top Crash Natures",
+    x = "Crash nature",
+    y = "Serious outcome rate"
+  )
+```
+To examine which crash natures were more strongly associated with serious outcomes, the six most common crash natures were selected for comparison. Serious outcomes were defined as crashes resulting in hospitalisation or fatality.
 
 # Discussion, Conclusion and Recommendations
 
