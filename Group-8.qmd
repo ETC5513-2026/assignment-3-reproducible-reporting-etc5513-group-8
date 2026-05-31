@@ -57,12 +57,46 @@ Max 300 words
 # Results
 
 Max 200 words
+```{r}
+raw_data <- read.csv("data/cleaned_dataset.csv")
+str(data)
 
+
+data <- raw_data|>
+  mutate(
+    Crash_Severity = factor(
+      Crash_Severity,
+      levels = c(
+        "Minor injury",
+        "Medical treatment",
+        "Hospitalisation",
+        "Fatal"
+      ),
+      ordered = TRUE
+    ),
+    Crash_Type = factor(Crash_Type),
+    Crash_Nature = factor(Crash_Nature),
+    Crash_Speed_Limit = factor(Crash_Speed_Limit),
+    Crash_Road_Surface_Condition = factor(Crash_Road_Surface_Condition),
+    Crash_Atmospheric_Condition = factor(Crash_Atmospheric_Condition),
+    Crash_Lighting_Condition = factor(Crash_Lighting_Condition),
+    Crash_Road_Horiz_Align = factor(Crash_Road_Horiz_Align),
+    Crash_Road_Vert_Align = factor(Crash_Road_Vert_Align),
+    Crash_DCA_Group_Description = factor(Crash_DCA_Group_Description)
+  )
+
+```
+
+# How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
+# Which crash types or crash natures are more commonly associated with serious outcomes?
+# Do lighting and road surface conditions appear to be related to crash severity?
 ```{r}
 #| label: fig-results-plot
 #| fig-cap: "Caption for results figure."
 
-# plot code
+# plot
+data |>
+  autoplot()
 ```
 
 
