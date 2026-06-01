@@ -143,7 +143,7 @@ condition_data |>
         )
 ```
 
-
+- @fig-surface-light compares serious outcome rates across lighting and road surface conditions. Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%, compared with 42.3% for daylight and 41.3% for darkness with lighting. For road surface conditions, sealed wet roads showed a higher serious outcome rate than sealed dry roads, at 46.2% compared with 41.5%. These results suggest that poor lighting and wet road surfaces may be associated with more severe crash outcomes, although the analysis does not establish causality.
 
 # Discussion, Conclusion and Recommendations
 
