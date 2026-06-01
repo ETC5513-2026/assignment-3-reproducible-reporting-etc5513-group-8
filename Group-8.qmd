@@ -21,6 +21,7 @@ bibliography: references.bib
 
 # Load libraries here
 library(ggplot2)
+library(tidyverse)
 library(dplyr)
 library(knitr)
 ```
@@ -86,6 +87,7 @@ data <- raw_data|>
 ```
 
 ## How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
+
 ```{r}
 #| label: fig-crash-severity
 #| fig-cap: "Distribution of Crash Severity Outcomes"
@@ -111,10 +113,10 @@ data |>
 
 @fig-crash-severity shows the overall distribution of crash severity outcomes. Hospitalisation and medical treatment crashes accounted for the largest shares, while fatal crashes represented only a small proportion of the dataset.
 
-
 ## Which crash types or crash natures are more commonly associated with serious outcomes?
+
 ```{r}
-#| label: serious rate
+#| label: serious-rate
 #| fig-cap: "Serious Outcome Rate by Top Crash Natures"
 
 top_natures <- data |>
@@ -155,7 +157,9 @@ data |>
     y = "Serious outcome rate"
   )
 ```
-To examine which crash natures were more strongly associated with serious outcomes, the six most common crash natures were selected for comparison. Serious outcomes were defined as crashes resulting in hospitalisation or fatality.
+
+@serious-rate compares the serious outcome rates among the six most common crash natures. Head-on crashes had the highest serious outcome rate, with 85.7% resulting in hospitalisation or fatality. Overturned crashes also showed a relatively high serious outcome rate at 55.6%, followed by angle crashes at 50.0% and hit object crashes at 47.1%. Although rear-end crashes were one of the most common crash natures, they had the lowest serious outcome rate among the selected categories at 35.9%. This suggests that crash frequency and crash severity do not necessarily follow the same pattern.
+
 
 # Discussion, Conclusion and Recommendations
 
