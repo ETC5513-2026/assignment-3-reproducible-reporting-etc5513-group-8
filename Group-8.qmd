@@ -84,10 +84,11 @@ data <- raw_data|>
 
 ```
 
-# How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
-# Which crash types or crash natures are more commonly associated with serious outcomes?
+## How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 
-# Do lighting and road surface conditions appear to be related to crash severity?
+## Which crash types or crash natures are more commonly associated with serious outcomes?
+
+## Do lighting and road surface conditions appear to be related to crash severity?
 ```{r}
 #| fig-pos: "H"
 #| label: fig-surface-light
@@ -143,8 +144,15 @@ condition_data |>
         )
 ```
 
-- @fig-surface-light compares serious outcome rates across lighting and road surface conditions. Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%, compared with 42.3% for daylight and 41.3% for darkness with lighting. For road surface conditions, sealed wet roads showed a higher serious outcome rate than sealed dry roads, at 46.2% compared with 41.5%. These results suggest that poor lighting and wet road surfaces may be associated with more severe crash outcomes, although the analysis does not establish causality.
+@fig-surface-light compares serious outcome rates across lighting and road surface conditions. Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%, compared with 42.3% for daylight and 41.3% for darkness with lighting. For road surface conditions, sealed wet roads showed a higher serious outcome rate than sealed dry roads, at 46.2% compared with 41.5%. These results suggest that poor lighting and wet road surfaces may be associated with more severe crash outcomes, although the analysis does not establish causality.
 
-# Discussion, Conclusion and Recommendations
+# Conclusion, Discussion and Recommendations
+
+The data analysis results suggest that high-speed road crashes in Brisbane in 2024 were more commonly associated with injury outcomes than fatal outcomes. It could be seen that hospitalisation and medical treatment crashes accounted for a large proportion of the dataset, while fatal crashes only represented a small proportion. This indicates that road safety strategies should not only focus on preventing deaths , but also aim to reduce serious non-fatal injuries.
+
+According to @R-base,  crash nature was an important reason of crash severity. Our analysis data shows that head-on crashes had the highest serious outcome rate, followed by overturned and angle crashes. This suggests that crash types involving direct impact or loss of vehicle control may be more often to happened severe outcomes. Additionally, environmental conditions also related to crash severity. Our analysis found that crashes occurring in darkness without lighting had the highest serious outcome rate among lighting conditions, and the sealed wet roads showed a higher serious outcome rate than sealed dry roads. These findings suggest that poorer visibility and wet road surfaces may have more severe crash outcomes.
+
+Overall, the analysis suggests that serious crash outcomes are more likely under specific crash and environmental conditions. To prevent serious crashes, agencies should consider improving lighting in poorly lit areas, maintaining road surfaces and drainage systems, using wet-road warning signs and applying speed management strategies in high-risk locations.
+locations.
 
 # References
