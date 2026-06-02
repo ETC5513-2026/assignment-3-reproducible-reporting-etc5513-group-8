@@ -38,11 +38,11 @@ Road traffic injuries are also the leading cause of death for children and young
 Speed is a particularly significant risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk and a 3% increase in serious crash risk [@who2023factsheet].
 High-speed roads are therefore disproportionately associated with severe crash outcomes, making them a priority area for road safety analysis.
 
-Brisbane, as Queensland's most populous city, presents a complex road safety environment shaped by diverse road conditions and extensive high-speed arterial networks operating at 80 to 110 km/h.
+Brisbane, as Queensland's most populous city, presents a complex road safety environment shaped by diverse road conditions and high-speed arterial networks operating at 80 to 110 km/h.
 In 2024, Queensland recorded 303 fatalities on its roads, the worst toll since 2009, with speeding identified as a key contributing factor [@qldgov2025].
-Despite this, detailed analyses of how road conditions, environmental factors, and temporal patterns interact to influence crash severity specifically on Brisbane's high-speed roads remain limited.
-This report addresses that gap using a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
-Key variables retained for analysis include crash severity, road surface condition, atmospheric condition, lighting, road geometry, crash nature and type, speed limit band, and temporal indicators such as hour of day, day of week, and month.
+Prior research has shown that crash nature, lighting conditions, and road surface conditions are among the factors most associated with crash severity [@tamakloe2022].
+This report analyses a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
+Key variables include crash severity, crash type, crash nature, road surface condition, and lighting condition.
 
 The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
 
