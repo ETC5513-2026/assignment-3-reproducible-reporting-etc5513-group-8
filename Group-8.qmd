@@ -2,15 +2,9 @@
 title: "Crash Type and Severity on High-Speed Roads in Brisbane"
 author:
   - "Jacqueline Gunawan"
-<<<<<<< HEAD
-  - "Chung Yu Lin"
-  - "Aditya Sharma"
-  - "Kai Hong Su"
-=======
   - "Yu-Lin Chung"
   - "Aditya Sharma"
   - "Kai-Hong Su"
->>>>>>> origin/main
 
 format: 
   pdf:
@@ -58,11 +52,6 @@ Key variables include crash severity, crash type, crash nature, road surface con
 
 The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/main
 # Methodology
 
 ## Data Source
