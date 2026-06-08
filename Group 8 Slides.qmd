@@ -24,10 +24,6 @@ library(tidyverse)
 library(scales)
 ```
 
-## Crash Type and Severity on High-Speed Roads in Brisbane
-
-Jacqueline Gunawan, Yu-Lin Chung, Aditya Sharma, Kai-Hong Su
-
 ## Problem Introduction
 
 -   Road traffic crashes cause approximately 1.19 million deaths globally each year [@who2023factsheet]
@@ -237,5 +233,13 @@ print(p)
 ## Recommendations
 - Road safety strategies should not only focus on preventing deaths , but also aim to reduce serious non-fatal injuries.
 - To prevent serious crashes, agency can improve lighting in poorly lit areas, maintain road drainage systems, use wet-road warning signs and apply speed management strategies in high-risk locations.
+
+## AI Statement
+
+We used ChatGPT (https://chatgpt.com/) to help us search for reference information, revise grammar, improve sentence structure, check wording errors, debug coding and Git issues, inspecting and validating the dataset for missing values, duplicates and inconsistencies, and ensure that the content was clear and consistent with the analysis. We used the tool for approximately 50 drafts. 
+
+## AI Statement
+
+However, we modified the outputs by checking and selecting only the information related to our analysis, testing and revising the code ourselves, resolving errors in our own working files, rewriting sections to match our report style, and ensuring that the final interpretation reflected our own understanding. All data analysis, the analytical decisions, research question, variable selection, and interpretation of results were made by the team independently.
 
 ## Reference

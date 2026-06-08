@@ -311,4 +311,8 @@ Crash nature was an important reason of crash severity. Our analysis data shows 
 
 Overall, the analysis suggests that serious crash outcomes are more likely under specific crash and environmental conditions. To prevent serious crashes, agencies should consider improving lighting in poorly lit areas, maintaining road surfaces and drainage systems, using wet-road warning signs and applying speed management strategies in high-risk locations.
 
+# AI Statement
+
+We used ChatGPT (https://chatgpt.com/) to help us search for reference information, revise grammar, improve sentence structure, check wording errors, debug coding and Git issues, and ensure that the content was clear and consistent with the analysis. We used the tool for approximately 50 drafts. However, we modified the outputs by checking and selecting only the information related to our analysis, testing and revising the code ourselves, resolving errors in our own working files, rewriting sections to match our report style, and ensuring that the final interpretation reflected our own understanding. All data analysis, research questions, figures, results, and conclusions were developed from our group’s own ideas and effort.
+
 # References
