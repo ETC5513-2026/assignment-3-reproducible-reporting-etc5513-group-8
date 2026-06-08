@@ -2,8 +2,8 @@
 title: "Crash Type and Severity on High-Speed Roads in Brisbane"
 author:
   - "Jacqueline Gunawan"
-  - "Chung Yu Lin"
-  - "Kai Aditya Sharma"
+  - "Yu Lin Chung"
+  - "Aditya Sharma"
   - "Kai Hong Su"
 
 format: 
