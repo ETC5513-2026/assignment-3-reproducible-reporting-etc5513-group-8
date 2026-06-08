@@ -3,7 +3,7 @@ title: "Crash Type and Severity on High-Speed Roads in Brisbane"
 author:
   - "Jacqueline Gunawan"
   - "Chung Yu Lin"
-  - "Kai Aditya Sharma"
+  - "Aditya Sharma"
   - "Kai Hong Su"
 
 format: 
@@ -20,10 +20,13 @@ bibliography: references.bib
 ```{r}
 #| label: setup
 
-# Load libraries here
+# Loading our required libraries
 library(ggplot2)
 library(dplyr)
 library(knitr)
+library(readr)
+
+crashes <- read_csv("data/cleaned_dataset.csv")
 ```
 
 
@@ -37,36 +40,103 @@ Road safety agencies should consider targeted interventions including improved l
 
 # Introduction
 
-Road traffic crashes remain a critical public health challenge globally, with approximately 1.19 million people dying each year as a result of road traffic injuries [@who2023factsheet].
-Road traffic injuries are also the leading cause of death for children and young adults aged 5 to 29 years, underscoring the urgency of targeted prevention efforts [@who2023factsheet].
-Speed is a particularly significant risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk and a 3% increase in serious crash risk [@who2023factsheet].
+Road traffic crashes remain a critical public health challenge globally, with approximately 1.19 million people dying each year as a result of road traffic injuries.
+Road traffic injuries are also the leading cause of death for children and young adults aged 5 to 29 years, underscoring the urgency of targeted prevention efforts.
+Speed is a particularly significant risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk and a 3% increase in serious crash risk.
 High-speed roads are therefore disproportionately associated with severe crash outcomes, making them a priority area for road safety analysis.
 
 Brisbane, as Queensland's most populous city, presents a complex road safety environment shaped by diverse road conditions and high-speed arterial networks operating at 80 to 110 km/h.
-In 2024, Queensland recorded 303 fatalities on its roads, the worst toll since 2009, with speeding identified as a key contributing factor [@qldgov2025].
-Prior research has shown that crash nature, lighting conditions, and road surface conditions are among the factors most associated with crash severity [@tamakloe2022].
-This report analyses a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
+In 2024, Queensland recorded 303 fatalities on its roads, the worst toll since 2009, with speeding identified as a key contributing factor.
+Prior research has shown that crash nature, lighting conditions, and road surface conditions are among the factors most associated with crash severity.
+This report analyses a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h.
 Key variables include crash severity, crash type, crash nature, road surface condition, and lighting condition.
 
 The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
 
 
+
 # Methodology
 
-Max 300 words
+## Data Source
+
+Our analysis is based on the *Crash data from Queensland roads* dataset,
+which is publicly available through the Queensland Government open data
+portal. The full dataset covers crash records across all of
+Queensland over multiple years. To keep the population size manageable and
+relevant to the scope of our analysis, we selected only records from the
+Brisbane police region in 2024, along with crashes on roads with speed
+limits between 80 and 110 km/h. This gave us a working dataset of 402
+crash records. @fig-methodology-plot shows where these crashes are spread across
+Brisbane.
+
+## Variable Selection
+
+The dataset contains 20 variables covering different aspects of each crash
+(@tbl-methodology-table). These include details about when the crash happened
+(month, day, hour), where it happened (latitude, longitude, postcode), how
+it happened (crash nature, crash type, DCA group), and the conditions at
+the time (speed limit, road surface, weather, lighting, road alignment).
+The main outcome we focused on is *Crash_Severity*, which records whether
+a crash resulted in a fatal, hospitalisation, medical treatment, or minor
+injury outcome.
+
+## Data Quality Checks
+
+Before starting our analysis, we checked the filtered dataset for common
+issues. We found no missing values in any of the 20 columns, no duplicate
+records, and all text categories were consistent in spelling and
+formatting. Numeric values such as crash hour (0 to 23), postcodes (4000
+to 4520), and coordinates all fell within expected ranges for Brisbane.
+Every crash reference number was unique, confirming that each row
+represents a distinct crash event.
+
+## Data Cleaning
+
+After filtering, the *Crash_Year* and *Loc_Police_Region* columns held the
+same value in every row (2024 and Brisbane) since we had already narrowed
+the data to that scope. We kept these columns in the dataset for reference
+but did not use them in the analysis. We did not change, remove, or fill
+in any values during this process, as the data was already complete and
+consistent.
+
+## Analytical Approach
+
+We used simple charts and summaries to explore how crash severity relates
+to crash type, crash nature, and environmental conditions across
+Brisbane's high-speed roads.
 
 ```{r}
-#| label: fig-method-plot
-#| fig-cap: "Caption for methodology figure."
+#| label: tbl-methodology-table
+#| tbl-cap: "Variables in the cleaned dataset, grouped by their role in the analysis."
 
-# plot code 
+var_dict <- data.frame(
+  Role = c("Identifier", "Outcome", "Temporal",
+           "Spatial", "Crash descriptors",
+           "Environmental conditions", "Exposure"),
+  Variables = c("Crash_Ref_Number",
+                "Crash_Severity",
+                "Crash_Month, Crash_Day_Of_Week, Crash_Hour",
+                "Crash_Latitude, Crash_Longitude, Loc_Post_Code",
+                "Crash_Nature, Crash_Type, Crash_DCA_Group_Description",
+                "Crash_Speed_Limit, Road_Surface, Atmospheric, Lighting, Road_Horiz_Align, Road_Vert_Align",
+                "Count_Unit_Car")
+)
+
+kable(var_dict, booktabs = TRUE)
 ```
-
+\
 ```{r}
-#| label: tbl-method-table
-#| tbl-cap: "Caption for methodology table."
+#| label: fig-methodology-plot
+#| fig-cap: "Spatial distribution of the 402 crash records across the Brisbane police region in 2024, coloured by crash severity."
+#| fig-width: 6
+#| fig-height: 4
 
-# table code
+ggplot(crashes, aes(x = Crash_Longitude, y = Crash_Latitude,
+                    colour = Crash_Severity)) +
+  geom_point(alpha = 0.7, size = 1.6) +
+  labs(x = "Longitude", y = "Latitude", colour = "Severity") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
 ```
 
 
