@@ -1,0 +1,37 @@
+---
+title: "Crash Type and Severity on High-Speed Roads in Brisbane"
+author: "Jacqueline Gunawan, Yu Lin Chung, Aditya Sharma, Kai Hong Su"
+format: revealjs
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: references.bib
+---
+
+```{r}
+#| label: setup
+
+library(ggplot2)
+library(dplyr)
+library(knitr)
+```
+
+## Crash Type and Severity on High-Speed Roads in Brisbane
+
+Jacqueline Gunawan, Chung Yu Lin, Kai Aditya Sharma, Kai Hong Su
+
+## Problem Introduction
+
+- Road traffic crashes cause approximately 1.19 million deaths globally each year [@who2023factsheet]
+- Speed is a key risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk [@who2023factsheet]
+- In 2024, Queensland recorded 303 road fatalities, the worst toll since 2009 [@qldgov2025]
+- High-speed roads are disproportionately associated with severe crash outcomes
+
+## Dataset Description
+
+## Methods
+
+## Results
+
+## Conclusions and Recommendations
