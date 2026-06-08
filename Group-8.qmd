@@ -53,7 +53,6 @@ Max 300 words
 
 # Results
 
-Max 200 words
 ```{r}
 raw_data <- read.csv("data/cleaned_dataset.csv")
 str(data)
