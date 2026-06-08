@@ -1,6 +1,11 @@
 ---
-title: "Queensland Road Safety"
-author: "Jacqueline Gunawan, Yu-Lin Chung, Kai Aditya Sharma, Kai Hong Su"
+title: "Crash Type and Severity on High-Speed Roads in Brisbane"
+author:
+  - "Jacqueline Gunawan"
+  - "Chung Yu Lin"
+  - "Kai Aditya Sharma"
+  - "Kai Hong Su"
+
 format: 
   pdf:
     toc: true
@@ -24,12 +29,26 @@ library(knitr)
 
 # Executive Summary
 
-Max 4 sentences
+This report analyses 402 crashes recorded on high-speed roads (80 to 110 km/h) in the Brisbane police region in 2024, examining how crash type, crash nature, and environmental conditions relate to crash severity outcomes.
+Head-on crashes and overturned vehicles were associated with the highest rates of serious outcomes, while crashes occurring in unlit darkness and on wet sealed roads also showed elevated serious outcome rates compared to other conditions.
+These findings suggest that crash characteristics and environmental conditions play a meaningful role in determining crash severity on Brisbane's high-speed road network.
+Road safety agencies should consider targeted interventions including improved lighting in high-risk locations, better road surface maintenance, and speed management strategies to reduce the frequency and severity of crashes on high-speed roads.
 
 
 # Introduction
 
-Max 10 sentences
+Road traffic crashes remain a critical public health challenge globally, with approximately 1.19 million people dying each year as a result of road traffic injuries [@who2023factsheet].
+Road traffic injuries are also the leading cause of death for children and young adults aged 5 to 29 years, underscoring the urgency of targeted prevention efforts [@who2023factsheet].
+Speed is a particularly significant risk factor, with every 1% increase in mean speed producing a 4% increase in fatal crash risk and a 3% increase in serious crash risk [@who2023factsheet].
+High-speed roads are therefore disproportionately associated with severe crash outcomes, making them a priority area for road safety analysis.
+
+Brisbane, as Queensland's most populous city, presents a complex road safety environment shaped by diverse road conditions and high-speed arterial networks operating at 80 to 110 km/h.
+In 2024, Queensland recorded 303 fatalities on its roads, the worst toll since 2009, with speeding identified as a key contributing factor [@qldgov2025].
+Prior research has shown that crash nature, lighting conditions, and road surface conditions are among the factors most associated with crash severity [@tamakloe2022].
+This report analyses a dataset of 402 crashes recorded in the Brisbane police region in 2024, filtered to include only crashes on roads with speed limits of 80 to 110 km/h [@qlddata2024].
+Key variables include crash severity, crash type, crash nature, road surface condition, and lighting condition.
+
+The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
 
 
 # Methodology
@@ -53,105 +72,16 @@ Max 300 words
 
 # Results
 
+Max 200 words
+
 ```{r}
-raw_data <- read.csv("data/cleaned_dataset.csv")
-str(data)
+#| label: fig-results-plot
+#| fig-cap: "Caption for results figure."
 
-
-data <- raw_data|>
-  mutate(
-    Crash_Severity = factor(
-      Crash_Severity,
-      levels = c(
-        "Minor injury",
-        "Medical treatment",
-        "Hospitalisation",
-        "Fatal"
-      ),
-      ordered = TRUE
-    ),
-    Crash_Type = factor(Crash_Type),
-    Crash_Nature = factor(Crash_Nature),
-    Crash_Speed_Limit = factor(Crash_Speed_Limit),
-    Crash_Road_Surface_Condition = factor(Crash_Road_Surface_Condition),
-    Crash_Atmospheric_Condition = factor(Crash_Atmospheric_Condition),
-    Crash_Lighting_Condition = factor(Crash_Lighting_Condition),
-    Crash_Road_Horiz_Align = factor(Crash_Road_Horiz_Align),
-    Crash_Road_Vert_Align = factor(Crash_Road_Vert_Align),
-    Crash_DCA_Group_Description = factor(Crash_DCA_Group_Description)
-  )
-
+# plot code
 ```
 
-## How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 
-## Which crash types or crash natures are more commonly associated with serious outcomes?
-
-## Do lighting and road surface conditions appear to be related to crash severity?
-```{r}
-#| fig-pos: "H"
-#| label: fig-surface-light
-#| fig-cap: "Serious Outcome Rate by Lighting and Road Surface Conditions"
-
-library(tidyverse)
-condition_data <- data |>
-  mutate(
-    Serious_Outcome = if_else(
-    Crash_Severity %in% c("Hospitalisation", "Fatal"),
-    "Serious",
-    "Non-serious"))
-
-  condition_data <- condition_data |>
-    select(
-    Serious_Outcome,
-    Crash_Lighting_Condition,
-    Crash_Road_Surface_Condition) |>
-      pivot_longer(
-        cols = c(Crash_Lighting_Condition, Crash_Road_Surface_Condition),
-        names_to = "Condition_Type",
-        values_to = "Condition") 
-        
-  condition_data <- condition_data |>
-    mutate(
-      Condition_Type = case_when(
-      Condition_Type == "Crash_Lighting_Condition" ~ "Lighting condition",
-      Condition_Type == "Crash_Road_Surface_Condition" ~ "Road surface condition")) |>
-        group_by(Condition_Type, Condition) |>
-        summarise(
-          total_crashes = n(),
-          serious_crashes = sum(Serious_Outcome == "Serious"),
-          serious_rate = serious_crashes / total_crashes,
-          .groups = "drop") |>
-            filter(total_crashes >= 5)
-
-#plot
-condition_data |>
-  ggplot(aes(x = reorder(Condition, serious_rate), y = serious_rate)) +
-  geom_col(fill = "grey70") +
-  geom_text(
-  aes(label = scales::percent(serious_rate, accuracy = 0.1)),
-  hjust = 1.1,
-  color = "black")+
-  coord_flip() +
-  facet_wrap(~ Condition_Type, scales = "free_y") +
-  scale_y_continuous(
-    labels = scales::percent,
-    expand = expansion(mult = c(0, 0.2))) +
-      labs(
-        x = NULL,
-        y = "Serious outcome rate"
-        )
-```
-
-@fig-surface-light compares serious outcome rates across lighting and road surface conditions. Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%, compared with 42.3% for daylight and 41.3% for darkness with lighting. For road surface conditions, sealed wet roads showed a higher serious outcome rate than sealed dry roads, at 46.2% compared with 41.5%. These results suggest that poor lighting and wet road surfaces may be associated with more severe crash outcomes, although the analysis does not establish causality.
-
-# Conclusion, Discussion and Recommendations
-
-The data analysis results suggest that high-speed road crashes in Brisbane in 2024 were more commonly associated with injury outcomes than fatal outcomes. It could be seen that hospitalisation and medical treatment crashes accounted for a large proportion of the dataset, while fatal crashes only represented a small proportion. This indicates that road safety strategies should not only focus on preventing deaths , but also aim to reduce serious non-fatal injuries.
-
-Crash nature was an important reason of crash severity. Our analysis data shows that head-on crashes had the highest serious outcome rate, followed by overturned and angle crashes. This suggests that crash types involving direct impact or loss of vehicle control may be more often to happened severe outcomes. Additionally, environmental conditions also related to crash severity. According to @tamakloe2022, car crash severity afftected by the lighting conditions and more likely to occur or become severe under darker enviroments. This is consistent with our findings that crashes occurring in darkness without lighting had the highest serious outcome rate among lighting conditions, and the sealed wet roads showed a higher serious outcome rate than sealed dry roads. These findings suggest that poorer visibility and wet road surfaces may have more severe crash outcomes.
-
-Overall, the analysis suggests that serious crash outcomes are more likely under specific crash and environmental conditions. To prevent serious crashes, agencies should consider improving lighting in poorly lit areas, maintaining road surfaces and drainage systems, using wet-road warning signs and applying speed management strategies in high-risk locations.
-locations.
+# Discussion, Conclusion and Recommendations
 
 # References
