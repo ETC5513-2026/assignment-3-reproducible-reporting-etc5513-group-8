@@ -40,6 +40,7 @@ Jacqueline Gunawan, Yu-Lin Chung, Aditya Sharma, Kai-Hong Su
 ## Methods
 
 ## Results
+
 ### How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 
 ```{r}
@@ -69,10 +70,6 @@ data <- raw_data|>
   )
 
 ```
-
-## Results
-
-### Which crash types or crash natures are more commonly associated with serious outcomes?
 
 ```{r}
 #| fig-cap: "Distribution of Crash Severity Outcomes for High-Speed Road Crashes"
