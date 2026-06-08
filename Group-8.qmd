@@ -1,9 +1,10 @@
 ---
 title: "Crash Type and Severity on High-Speed Roads in Brisbane"
-author: "Jacqueline Gunawan", 
-        "Chung Yu Lin", 
-        "Kai Aditya Sharma", 
-        "Kai Hong Su"
+author:
+  - "Jacqueline Gunawan"
+  - "Chung Yu Lin"
+  - "Kai Aditya Sharma"
+  - "Kai Hong Su"
 format: 
   pdf:
     toc: true
@@ -27,7 +28,10 @@ library(knitr)
 
 # Executive Summary
 
-Max 4 sentences
+This report analyses 402 crashes recorded on high-speed roads (80 to 110 km/h) in the Brisbane police region in 2024, examining how crash type, crash nature, and environmental conditions relate to crash severity outcomes.
+Head-on crashes and overturned vehicles were associated with the highest rates of serious outcomes, while crashes occurring in unlit darkness and on wet sealed roads also showed elevated serious outcome rates compared to other conditions.
+These findings suggest that crash characteristics and environmental conditions play a meaningful role in determining crash severity on Brisbane's high-speed road network.
+Road safety agencies should consider targeted interventions including improved lighting in high-risk locations, better road surface maintenance, and speed management strategies to reduce the frequency and severity of crashes on high-speed roads.
 
 
 
