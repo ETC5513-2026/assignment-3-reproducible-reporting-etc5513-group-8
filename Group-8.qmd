@@ -2,9 +2,9 @@
 title: "Crash Type and Severity on High-Speed Roads in Brisbane"
 author:
   - "Jacqueline Gunawan"
-  - "Chung Yu Lin"
+  - "Yu-Lin Chung"
   - "Aditya Sharma"
-  - "Kai Hong Su"
+  - "Kai-Hong Su"
 
 format: 
   pdf:
@@ -22,6 +22,7 @@ bibliography: references.bib
 
 # Loading our required libraries
 library(ggplot2)
+library(tidyverse)
 library(dplyr)
 library(knitr)
 library(readr)
@@ -29,14 +30,12 @@ library(readr)
 crashes <- read_csv("data/cleaned_dataset.csv")
 ```
 
-
 # Executive Summary
 
 This report analyses 402 crashes recorded on high-speed roads (80 to 110 km/h) in the Brisbane police region in 2024, examining how crash type, crash nature, and environmental conditions relate to crash severity outcomes.
 Head-on crashes and overturned vehicles were associated with the highest rates of serious outcomes, while crashes occurring in unlit darkness and on wet sealed roads also showed elevated serious outcome rates compared to other conditions.
 These findings suggest that crash characteristics and environmental conditions play a meaningful role in determining crash severity on Brisbane's high-speed road network.
 Road safety agencies should consider targeted interventions including improved lighting in high-risk locations, better road surface maintenance, and speed management strategies to reduce the frequency and severity of crashes on high-speed roads.
-
 
 # Introduction
 
@@ -52,8 +51,6 @@ This report analyses a dataset of 402 crashes recorded in the Brisbane police re
 Key variables include crash severity, crash type, crash nature, road surface condition, and lighting condition.
 
 The central research question guiding this analysis is: *which crash types and crash natures are more commonly associated with serious outcomes on high-speed roads in Brisbane?*
-
-
 
 # Methodology
 
@@ -124,7 +121,9 @@ var_dict <- data.frame(
 
 kable(var_dict, booktabs = TRUE)
 ```
+
 \
+
 ```{r}
 #| label: fig-methodology-plot
 #| fig-cap: "Spatial distribution of the 402 crash records across the Brisbane police region in 2024, coloured by crash severity."
@@ -139,19 +138,177 @@ ggplot(crashes, aes(x = Crash_Longitude, y = Crash_Latitude,
   theme(legend.position = "bottom")
 ```
 
-
 # Results
 
-Max 200 words
-
 ```{r}
-#| label: fig-results-plot
-#| fig-cap: "Caption for results figure."
+# read data
+raw_data <- read.csv("data/cleaned_dataset.csv")
 
-# plot code
+# transform data
+data <- raw_data|>
+  mutate(
+    Crash_Severity = factor(
+      Crash_Severity,
+      levels = c(
+        "Minor injury",
+        "Medical treatment",
+        "Hospitalisation",
+        "Fatal"
+      ),
+      ordered = TRUE
+    ),
+    Crash_Type = factor(Crash_Type),
+    Crash_Nature = factor(Crash_Nature),
+    Crash_Speed_Limit = factor(Crash_Speed_Limit),
+    Crash_Road_Surface_Condition = factor(Crash_Road_Surface_Condition),
+    Crash_Atmospheric_Condition = factor(Crash_Atmospheric_Condition),
+    Crash_Lighting_Condition = factor(Crash_Lighting_Condition),
+    Crash_Road_Horiz_Align = factor(Crash_Road_Horiz_Align),
+    Crash_Road_Vert_Align = factor(Crash_Road_Vert_Align),
+    Crash_DCA_Group_Description = factor(Crash_DCA_Group_Description)
+  )
+
 ```
 
+## How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 
-# Discussion, Conclusion and Recommendations
+```{r}
+#| label: fig-crash-severity
+#| fig-cap: "Distribution of Crash Severity Outcomes"
+
+# plot for "How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?"
+data |>
+  count(Crash_Severity) |>
+  mutate(
+    percent = n / sum(n),
+    label = scales::percent(percent, accuracy = 0.1)
+  ) |>
+  ggplot(aes(x = Crash_Severity, y = n)) +
+  geom_col() +
+  geom_text(aes(label = label), hjust = -0.1) +
+  coord_flip() +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(
+    title = "Distribution of Crash Severity Outcomes",
+    x = "Crash severity",
+    y = "Number of crashes"
+  )
+```
+
+@fig-crash-severity shows the overall distribution of crash severity outcomes. Hospitalisation and medical treatment crashes accounted for the largest shares, while fatal crashes represented only a small proportion of the dataset.
+
+## Which crash types or crash natures are more commonly associated with serious outcomes?
+
+```{r}
+#| label: serious-rate
+#| fig-cap: "Serious Outcome Rate by Top Crash Natures"
+
+top_natures <- data |>
+  count(Crash_Nature, sort = TRUE) |>
+  slice_head(n = 6) |>
+  pull(Crash_Nature)
+
+data |>
+  mutate(
+    Serious_Outcome = if_else(
+      Crash_Severity %in% c("Hospitalisation", "Fatal"),
+      "Serious",
+      "Non-serious"
+    )
+  ) |>
+  filter(Crash_Nature %in% top_natures) |>
+  group_by(Crash_Nature) |>
+  summarise(
+  total_crashes = n(),
+  serious_crashes = sum(Serious_Outcome == "Serious"),
+  serious_rate = serious_crashes / total_crashes,
+  .groups = "drop"
+  ) |>
+  ggplot(aes(x = reorder(Crash_Nature, serious_rate), y = serious_rate)) +
+  geom_col() +
+  geom_text(
+    aes(label = scales::percent(serious_rate, accuracy = 0.1)),
+    hjust = -0.1
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    labels = scales::percent,
+    expand = expansion(mult = c(0, 0.15))
+  ) +
+  labs(
+    title = "Serious Outcome Rate by Top Crash Natures",
+    x = "Crash nature",
+    y = "Serious outcome rate"
+  )
+```
+
+@serious-rate compares the serious outcome rates among the six most common crash natures. Head-on crashes had the highest serious outcome rate, with 85.7% resulting in hospitalisation or fatality. Overturned crashes also showed a relatively high serious outcome rate at 55.6%, followed by angle crashes at 50.0% and hit object crashes at 47.1%. Although rear-end crashes were one of the most common crash natures, they had the lowest serious outcome rate among the selected categories at 35.9%. This suggests that crash frequency and crash severity do not necessarily follow the same pattern.
+
+## Do lighting and road surface conditions appear to be related to crash severity?
+
+```{r}
+#| fig-pos: "H"
+#| label: fig-surface-light
+#| fig-cap: "Serious Outcome Rate by Lighting and Road Surface Conditions"
+
+library(tidyverse)
+condition_data <- data |>
+  mutate(
+    Serious_Outcome = if_else(
+    Crash_Severity %in% c("Hospitalisation", "Fatal"),
+    "Serious",
+    "Non-serious"))
+
+  condition_data <- condition_data |>
+    select(
+    Serious_Outcome,
+    Crash_Lighting_Condition,
+    Crash_Road_Surface_Condition) |>
+      pivot_longer(
+        cols = c(Crash_Lighting_Condition, Crash_Road_Surface_Condition),
+        names_to = "Condition_Type",
+        values_to = "Condition") 
+        
+  condition_data <- condition_data |>
+    mutate(
+      Condition_Type = case_when(
+      Condition_Type == "Crash_Lighting_Condition" ~ "Lighting condition",
+      Condition_Type == "Crash_Road_Surface_Condition" ~ "Road surface condition")) |>
+        group_by(Condition_Type, Condition) |>
+        summarise(
+          total_crashes = n(),
+          serious_crashes = sum(Serious_Outcome == "Serious"),
+          serious_rate = serious_crashes / total_crashes,
+          .groups = "drop") |>
+            filter(total_crashes >= 5)
+
+#plot
+condition_data |>
+  ggplot(aes(x = reorder(Condition, serious_rate), y = serious_rate)) +
+  geom_col(fill = "grey70") +
+  geom_text(
+  aes(label = scales::percent(serious_rate, accuracy = 0.1)),
+  hjust = 1.1,
+  color = "black")+
+  coord_flip() +
+  facet_wrap(~ Condition_Type, scales = "free_y") +
+  scale_y_continuous(
+    labels = scales::percent,
+    expand = expansion(mult = c(0, 0.2))) +
+      labs(
+        x = NULL,
+        y = "Serious outcome rate"
+        )
+```
+
+@fig-surface-light compares serious outcome rates across lighting and road surface conditions. Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%, compared with 42.3% for daylight and 41.3% for darkness with lighting. For road surface conditions, sealed wet roads showed a higher serious outcome rate than sealed dry roads, at 46.2% compared with 41.5%. These results suggest that poor lighting and wet road surfaces may be associated with more severe crash outcomes, although the analysis does not establish causality.
+
+# Conclusion, Discussion and Recommendations
+
+The data analysis results suggest that high-speed road crashes in Brisbane in 2024 were more commonly associated with injury outcomes than fatal outcomes. It could be seen that hospitalisation and medical treatment crashes accounted for a large proportion of the dataset, while fatal crashes only represented a small proportion. This indicates that road safety strategies should not only focus on preventing deaths , but also aim to reduce serious non-fatal injuries.
+
+Crash nature was an important reason of crash severity. Our analysis data shows that head-on crashes had the highest serious outcome rate, followed by overturned and angle crashes. This suggests that crash types involving direct impact or loss of vehicle control may be more often to happened severe outcomes. Additionally, environmental conditions also related to crash severity. According to @tamakloe2022, car crash severity afftected by the lighting conditions and more likely to occur or become severe under darker enviroments. This is consistent with our findings that crashes occurring in darkness without lighting had the highest serious outcome rate among lighting conditions, and the sealed wet roads showed a higher serious outcome rate than sealed dry roads. These findings suggest that poorer visibility and wet road surfaces may have more severe crash outcomes.
+
+Overall, the analysis suggests that serious crash outcomes are more likely under specific crash and environmental conditions. To prevent serious crashes, agencies should consider improving lighting in poorly lit areas, maintaining road surfaces and drainage systems, using wet-road warning signs and applying speed management strategies in high-risk locations.
 
 # References
