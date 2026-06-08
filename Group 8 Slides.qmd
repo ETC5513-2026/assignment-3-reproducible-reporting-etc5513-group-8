@@ -1,6 +1,11 @@
 ---
 title: "Crash Type and Severity on High-Speed Roads in Brisbane"
-author: "Jacqueline Gunawan, Yu Lin Chung, Aditya Sharma, Kai Hong Su"
+author:
+  - "Jacqueline Gunawan"
+  - "Yu-Lin Chung"
+  - "Aditya Sharma"
+  - "Kai-Hong Su"
+
 format: revealjs
 execute:
   echo: false
@@ -15,11 +20,13 @@ bibliography: references.bib
 library(ggplot2)
 library(dplyr)
 library(knitr)
+library(tidyverse)
+library(scales)
 ```
 
 ## Crash Type and Severity on High-Speed Roads in Brisbane
 
-Jacqueline Gunawan, Chung Yu Lin, Kai Aditya Sharma, Kai Hong Su
+Jacqueline Gunawan, Yu-Lin Chung, Aditya Sharma, Kai-Hong Su
 
 ## Problem Introduction
 
@@ -33,5 +40,116 @@ Jacqueline Gunawan, Chung Yu Lin, Kai Aditya Sharma, Kai Hong Su
 ## Methods
 
 ## Results
+### How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
 
-## Conclusions and Recommendations
+```{r}
+raw_data <- read.csv("data/cleaned_dataset.csv")
+
+data <- raw_data|>
+  mutate(
+    Crash_Severity = factor(
+      Crash_Severity,
+      levels = c(
+        "Minor injury",
+        "Medical treatment",
+        "Hospitalisation",
+        "Fatal"
+      ),
+      ordered = TRUE
+    ),
+    Crash_Type = factor(Crash_Type),
+    Crash_Nature = factor(Crash_Nature),
+    Crash_Speed_Limit = factor(Crash_Speed_Limit),
+    Crash_Road_Surface_Condition = factor(Crash_Road_Surface_Condition),
+    Crash_Atmospheric_Condition = factor(Crash_Atmospheric_Condition),
+    Crash_Lighting_Condition = factor(Crash_Lighting_Condition),
+    Crash_Road_Horiz_Align = factor(Crash_Road_Horiz_Align),
+    Crash_Road_Vert_Align = factor(Crash_Road_Vert_Align),
+    Crash_DCA_Group_Description = factor(Crash_DCA_Group_Description)
+  )
+
+```
+
+## Results
+### Which crash types or crash natures are more commonly associated with serious outcomes?
+
+
+## Results
+### Do lighting and road surface conditions appear to be related to crash severity?
+```{r}
+#| echo: false
+#| fig-cap: "Serious Outcome Rate by Lighting and Road Surface Conditions"
+
+condition_data <- data |>
+  mutate(
+    Serious_Outcome = if_else(
+    Crash_Severity %in% c("Hospitalisation", "Fatal"),
+    "Serious",
+    "Non-serious"))
+
+  condition_data <- condition_data |>
+    select(
+    Serious_Outcome,
+    Crash_Lighting_Condition,
+    Crash_Road_Surface_Condition) |>
+      pivot_longer(
+        cols = c(Crash_Lighting_Condition, Crash_Road_Surface_Condition),
+        names_to = "Condition_Type",
+        values_to = "Condition") 
+        
+  condition_data <- condition_data |>
+    mutate(
+      Condition_Type = case_when(
+      Condition_Type == "Crash_Lighting_Condition" ~ "Lighting condition",
+      Condition_Type == "Crash_Road_Surface_Condition" ~ "Road surface condition")) |>
+        group_by(Condition_Type, Condition) |>
+        summarise(
+          total_crashes = n(),
+          serious_crashes = sum(Serious_Outcome == "Serious"),
+          serious_rate = serious_crashes / total_crashes,
+          .groups = "drop") |>
+            filter(total_crashes >= 5)
+
+#plot
+p <- condition_data |>
+  ggplot(aes(x = reorder(Condition, serious_rate), y = serious_rate)) +
+  geom_col(fill = "grey70") +
+  geom_text(
+  aes(label = scales::percent(serious_rate, accuracy = 0.1)),
+  hjust = 1.1,
+  color = "black")+
+  coord_flip() +
+  facet_wrap(~ Condition_Type, scales = "free_y") +
+  scale_y_continuous(
+    labels = scales::percent,
+    expand = expansion(mult = c(0, 0.2))) +
+      labs(
+        x = NULL,
+        y = "Serious outcome rate"
+        )
+
+print(p)
+```
+
+## Results
+### Do lighting and road surface conditions appear to be related to crash severity?
+
+- Crashes occurring in darkness without lighting had the highest serious outcome rate at 52.6%.
+
+- Crashes occurring on sealed wet roads showed a serious outcome rate than sealed dry roads of 46.2%. 
+
+## Conclusions
+- high-speed road crashes in Brisbane in 2024 were more commonly associated with injury outcomes than fatal outcomes.
+
+- Crash nature was an important reason of crash severity. 
+  - head-on crashes had the highest serious outcome rate
+
+- Environmental conditions related to crash severity.
+  - dark road without lighting had the highest serious outcome rate.
+  - sealed wet roads showed a higher serious outcome rate than sealed dry roads. 
+
+## Recommendations
+- Road safety strategies should not only focus on preventing deaths , but also aim to reduce serious non-fatal injuries.
+- To prevent serious crashes, agency can improve lighting in poorly lit areas, maintain road drainage systems, use wet-road warning signs and apply speed management strategies in high-risk locations.
+
+## Reference
