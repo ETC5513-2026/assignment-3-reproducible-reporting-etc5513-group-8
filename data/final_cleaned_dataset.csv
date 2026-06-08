@@ -1,0 +1,403 @@
+Crash_Ref_Number,Crash_Severity,Crash_Month,Crash_Month_Num,Crash_Day_Of_Week,Crash_Day_Num,Crash_Hour,Crash_Nature,Crash_Type,Crash_Latitude,Crash_Longitude,Loc_Post_Code,Crash_Speed_Limit,Crash_Road_Surface_Condition,Crash_Atmospheric_Condition,Crash_Lighting_Condition,Crash_Road_Horiz_Align,Crash_Road_Vert_Align,Count_Unit_Car,DCA_Code,DCA_Description
+70263,Medical treatment,May,5,Saturday,6,20,Rear-end,Multi-Vehicle,-27.57233944,152.958205,4076,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+70422,Medical treatment,November,11,Thursday,4,19,Sideswipe,Multi-Vehicle,-27.65221178,153.0700826,4116,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,05,Lane Change
+70677,Minor injury,December,12,Wednesday,3,18,Hit object,Single Vehicle,-27.50912446,153.155774,4155,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Dip,1,21,Other
+70764,Hospitalisation,August,8,Monday,1,7,Head-on,Multi-Vehicle,-27.55882146,153.175176,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,02,Head-on
+70787,Medical treatment,November,11,Wednesday,3,6,Rear-end,Multi-Vehicle,-27.64765845,153.049133,4116,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+70795,Hospitalisation,April,4,Monday,1,15,Rear-end,Multi-Vehicle,-27.64005147,153.240598,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,04,Rear-end
+70806,Hospitalisation,September,9,Thursday,4,19,Rear-end,Multi-Vehicle,-27.50723545,153.038766,4120,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+70930,Hospitalisation,December,12,Friday,5,6,Rear-end,Multi-Vehicle,-27.56611247,153.239374,4164,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,6,04,Rear-end
+71009,Minor injury,October,10,Thursday,4,13,Rear-end,Multi-Vehicle,-27.56828947,153.274306,4164,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+71178,Hospitalisation,February,2,Saturday,6,21,Hit object,Single Vehicle,-27.58570547,153.255683,4164,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+71183,Hospitalisation,February,2,Monday,1,8,Angle,Multi-Vehicle,-27.58879547,153.228496,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,01,Intersection: Adjacent Approach
+71333,Hospitalisation,December,12,Saturday,6,12,Hit object,Single Vehicle,-27.32161845,153.0507611,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+71492,Medical treatment,October,10,Friday,5,8,Rear-end,Multi-Vehicle,-27.50540545,153.038882,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+72879,Medical treatment,June,6,Wednesday,3,7,Rear-end,Multi-Vehicle,-27.59776344,152.921284,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+73000,Medical treatment,February,2,Tuesday,2,16,Angle,Multi-Vehicle,-27.60201447,153.261137,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,03,Opposing Vehicles Turning
+73117,Medical treatment,December,12,Wednesday,3,15,Hit object,Single Vehicle,-27.30282845,153.0444201,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+76096,Minor injury,August,8,Friday,5,15,Rear-end,Multi-Vehicle,-27.31271545,153.0411261,4017,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+76264,Minor injury,March,3,Sunday,7,2,Hit parked vehicle,Single Vehicle,-27.51491645,153.044643,4120,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,10,Hit Parked Vehicle
+76267,Hospitalisation,March,3,Sunday,7,12,Rear-end,Multi-Vehicle,-27.51913645,153.051008,4120,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,5,04,Rear-end
+76269,Hospitalisation,March,3,Sunday,7,12,Rear-end,Multi-Vehicle,-27.30018744,153.0162461,4036,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,2,04,Rear-end
+76274,Medical treatment,May,5,Wednesday,3,7,Sideswipe,Multi-Vehicle,-27.63236145,153.064265,4116,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+85808,Medical treatment,September,9,Friday,5,5,Hit object,Single Vehicle,-27.56199744,152.994175,4106,80 - 90 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+88871,Medical treatment,October,10,Thursday,4,8,Rear-end,Multi-Vehicle,-27.57165344,152.944081,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,04,Rear-end
+95105,Medical treatment,October,10,Monday,1,6,Sideswipe,Multi-Vehicle,-27.41934045,153.03503,4030,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+95113,Medical treatment,October,10,Wednesday,3,7,Rear-end,Multi-Vehicle,-27.64815845,153.052716,4116,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+95118,Hospitalisation,October,10,Wednesday,3,14,Angle,Multi-Vehicle,-27.58181045,153.096886,4113,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,03,Opposing Vehicles Turning
+95125,Hospitalisation,October,10,Saturday,6,23,Rear-end,Multi-Vehicle,-27.44079845,153.031816,4030,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+95309,Medical treatment,May,5,Monday,1,6,Rear-end,Multi-Vehicle,-27.57161045,153.107571,4123,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+95414,Hospitalisation,April,4,Wednesday,3,16,Rear-end,Multi-Vehicle,-27.41125645,153.068968,4011,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,4,12,Pedestrian
+95606,Minor injury,March,3,Thursday,4,16,Rear-end,Multi-Vehicle,-27.64180844,153.011338,4110,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+96285,Medical treatment,May,5,Friday,5,19,Hit object,Single Vehicle,-27.48956245,153.122836,4153,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+97825,Hospitalisation,February,2,Sunday,7,11,Rear-end,Multi-Vehicle,-27.31383945,153.0477811,4017,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+97845,Fatal,April,4,Sunday,7,18,Head-on,Multi-Vehicle,-27.30626545,153.0441991,4017,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Curved - view open,Level,6,02,Head-on
+97935,Minor injury,December,12,Tuesday,2,18,Hit object,Single Vehicle,-27.58706644,152.927871,4076,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+97946,Minor injury,September,9,Monday,1,11,Rear-end,Multi-Vehicle,-27.31634344,153.0028171,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+98129,Medical treatment,August,8,Thursday,4,5,Overturned,Single Vehicle,-27.55485644,152.940564,4074,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,1,16,Off Carriageway on Straight Hit Object
+98137,Hospitalisation,December,12,Sunday,7,10,Rear-end,Multi-Vehicle,-27.44670145,153.032736,4006,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,04,Rear-end
+98161,Hospitalisation,August,8,Thursday,4,8,Rear-end,Multi-Vehicle,-27.43595745,153.095726,4009,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,3,04,Rear-end
+98422,Minor injury,January,1,Tuesday,2,5,Sideswipe,Multi-Vehicle,-27.52176545,153.053096,4121,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,05,Lane Change
+98455,Hospitalisation,August,8,Thursday,4,20,Head-on,Multi-Vehicle,-27.52484746,153.163886,4156,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Curved - view obscured,Level,2,02,Head-on
+98468,Hospitalisation,September,9,Monday,1,6,Sideswipe,Multi-Vehicle,-27.47361245,153.116878,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,5,05,Lane Change
+99077,Medical treatment,March,3,Thursday,4,8,Rear-end,Multi-Vehicle,-27.60026182,152.9203174,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+99092,Medical treatment,November,11,Monday,1,12,Head-on,Multi-Vehicle,-27.55893446,153.171955,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,02,Head-on
+99114,Medical treatment,November,11,Thursday,4,10,Angle,Multi-Vehicle,-27.48904146,153.196066,4159,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,01,Intersection: Adjacent Approach
+99415,Hospitalisation,November,11,Friday,5,16,Rear-end,Multi-Vehicle,-27.52072645,153.052198,4121,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+99416,Medical treatment,November,11,Saturday,6,14,Rear-end,Multi-Vehicle,-27.49154546,153.124229,4153,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+99434,Medical treatment,June,6,Friday,5,13,Hit object,Single Vehicle,-27.35368144,152.9680971,4035,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+99435,Medical treatment,June,6,Friday,5,14,Hit object,Single Vehicle,-27.53496344,152.946576,4074,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+99449,Medical treatment,June,6,Tuesday,2,17,Sideswipe,Multi-Vehicle,-27.48334445,153.120019,4173,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,1,05,Lane Change
+99455,Hospitalisation,December,12,Monday,1,21,Hit pedestrian,Hit pedestrian,-27.51709046,153.217943,4161,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,1,12,Pedestrian
+99633,Minor injury,April,4,Wednesday,3,18,Rear-end,Multi-Vehicle,-27.50718146,153.124736,4153,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,1,04,Rear-end
+99653,Hospitalisation,July,7,Friday,5,19,Rear-end,Multi-Vehicle,-27.64170044,153.0116,4110,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+99710,Hospitalisation,June,6,Monday,1,6,Sideswipe,Multi-Vehicle,-27.41801445,153.087563,4009,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,1,05,Lane Change
+106621,Hospitalisation,October,10,Wednesday,3,15,Sideswipe,Multi-Vehicle,-27.32259145,153.0505211,4017,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+106690,Medical treatment,May,5,Thursday,4,17,Rear-end,Multi-Vehicle,-27.47382945,153.116989,4173,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,3,04,Rear-end
+115046,Hospitalisation,December,12,Tuesday,2,1,Overturned,Single Vehicle,-27.55822744,152.939806,4074,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,2,04,Rear-end
+117523,Hospitalisation,April,4,Tuesday,2,16,Angle,Multi-Vehicle,-27.37495943,152.8405111,4520,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,02,Head-on
+120878,Medical treatment,January,1,Sunday,7,11,Rear-end,Multi-Vehicle,-27.28510045,153.0624411,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+122309,Medical treatment,February,2,Tuesday,2,13,Angle,Multi-Vehicle,-27.36792045,153.097588,4014,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+126634,Fatal,May,5,Tuesday,2,13,Head-on,Multi-Vehicle,-27.59289844,152.994115,4077,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,02,Head-on
+126642,Medical treatment,June,6,Tuesday,2,17,Rear-end,Multi-Vehicle,-27.31887744,153.0130721,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,3,04,Rear-end
+126658,Medical treatment,June,6,Wednesday,3,17,Sideswipe,Multi-Vehicle,-27.49890113,153.0397759,4102,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Grade,1,05,Lane Change
+126659,Minor injury,June,6,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.31291345,153.0415111,4017,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+126668,Minor injury,July,7,Saturday,6,23,Hit object,Single Vehicle,-27.49911045,153.039889,4102,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+126975,Medical treatment,October,10,Monday,1,12,Sideswipe,Multi-Vehicle,-27.35648845,153.086708,4014,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+126990,Medical treatment,October,10,Thursday,4,6,Rear-end,Multi-Vehicle,-27.56637344,152.942832,4074,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,04,Rear-end
+140823,Minor injury,February,2,Wednesday,3,7,Rear-end,Multi-Vehicle,-27.56570946,153.20995,4157,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,04,Rear-end
+140829,Hospitalisation,March,3,Monday,1,23,Hit object,Single Vehicle,-27.51073446,153.170016,4155,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+140961,Medical treatment,May,5,Friday,5,20,Hit object,Single Vehicle,-27.64656244,152.979306,4124,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,1,19,Off Carriageway on Curve Hit Object
+140995,Medical treatment,May,5,Monday,1,13,Sideswipe,Multi-Vehicle,-27.64154744,152.986276,4110,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+141025,Medical treatment,February,2,Tuesday,2,8,Sideswipe,Multi-Vehicle,-27.45190845,153.104606,4172,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+141124,Hospitalisation,March,3,Wednesday,3,11,Rear-end,Multi-Vehicle,-27.39170743,152.8784261,4520,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,1,04,Rear-end
+141148,Hospitalisation,October,10,Saturday,6,10,Sideswipe,Multi-Vehicle,-27.49029445,153.033385,4102,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,05,Lane Change
+141536,Medical treatment,May,5,Thursday,4,7,Overturned,Single Vehicle,-27.33809145,153.041281,4018,100 - 110 km/h,Unsealed - Dry,Clear,Daylight,Straight,Level,1,17,Out of Control on Straight
+141564,Medical treatment,May,5,Tuesday,2,18,Hit object,Single Vehicle,-27.64433123,153.0293679,4115,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+141589,Medical treatment,May,5,Friday,5,7,Angle,Multi-Vehicle,-27.6344568,152.9552215,4124,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,07,U-turn
+141600,Medical treatment,May,5,Thursday,4,8,Rear-end,Multi-Vehicle,-27.61849545,153.077785,4116,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+142097,Hospitalisation,February,2,Friday,5,11,Sideswipe,Multi-Vehicle,-27.65097345,153.067932,4116,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,05,Lane Change
+142104,Hospitalisation,February,2,Saturday,6,16,Hit object,Single Vehicle,-27.33400043,152.8718891,4520,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+142113,Minor injury,February,2,Monday,1,7,Rear-end,Multi-Vehicle,-27.59074945,153.109183,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+142164,Hospitalisation,May,5,Sunday,7,23,Hit object,Single Vehicle,-27.47368991,153.1168904,4173,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+142177,Minor injury,May,5,Sunday,7,16,Rear-end,Multi-Vehicle,-27.48940345,153.032919,4102,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,3,04,Rear-end
+142193,Medical treatment,March,3,Friday,5,15,Rear-end,Multi-Vehicle,-27.51581245,153.046372,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+142226,Medical treatment,May,5,Thursday,4,17,Rear-end,Multi-Vehicle,-27.49305246,153.124933,4153,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,3,05,Lane Change
+142274,Medical treatment,June,6,Sunday,7,18,Rear-end,Multi-Vehicle,-27.63860145,153.061516,4116,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,04,Rear-end
+142310,Hospitalisation,June,6,Tuesday,2,6,Angle,Multi-Vehicle,-27.61312545,153.078774,4112,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,05,Lane Change
+142371,Medical treatment,July,7,Monday,1,6,Rear-end,Multi-Vehicle,-27.31207545,153.0387041,4017,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
+142372,Medical treatment,July,7,Monday,1,7,Rear-end,Multi-Vehicle,-27.57425044,152.953248,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+142775,Medical treatment,January,1,Monday,1,9,Sideswipe,Multi-Vehicle,-27.44500245,153.100628,4172,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,1,05,Lane Change
+142777,Medical treatment,April,4,Monday,1,7,Sideswipe,Multi-Vehicle,-27.56046045,153.075668,4109,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,4,05,Lane Change
+142805,Hospitalisation,March,3,Wednesday,3,16,Hit parked vehicle,Single Vehicle,-27.31859445,153.0494721,4017,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,1,10,Hit Parked Vehicle
+142812,Medical treatment,March,3,Monday,1,15,Rear-end,Multi-Vehicle,-27.56694546,153.21142,4157,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,3,04,Rear-end
+142910,Minor injury,July,7,Friday,5,12,Rear-end,Multi-Vehicle,-27.54200344,152.943963,4074,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,04,Rear-end
+142912,Minor injury,July,7,Saturday,6,5,Rear-end,Multi-Vehicle,-27.59285544,152.923835,4076,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,3,04,Rear-end
+142924,Medical treatment,July,7,Tuesday,2,15,Sideswipe,Multi-Vehicle,-27.46658645,153.115715,4173,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,05,Lane Change
+142998,Hospitalisation,September,9,Thursday,4,10,Sideswipe,Multi-Vehicle,-27.58211444,152.934271,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+143038,Hospitalisation,August,8,Tuesday,2,16,Hit object,Single Vehicle,-27.40735046,153.166088,4178,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+143045,Hospitalisation,October,10,Monday,1,13,Hit object,Single Vehicle,-27.33726325,153.0667474,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+143057,Minor injury,October,10,Wednesday,3,8,Hit object,Single Vehicle,-27.49810644,152.96333,4068,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+143089,Minor injury,October,10,Saturday,6,19,Rear-end,Multi-Vehicle,-27.50440045,153.03908,4120,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,3,04,Rear-end
+143410,Medical treatment,February,2,Friday,5,13,Hit object,Single Vehicle,-27.57965145,153.104415,4123,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+143457,Medical treatment,April,4,Wednesday,3,14,Rear-end,Multi-Vehicle,-27.63967944,152.980606,4110,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+143489,Medical treatment,May,5,Friday,5,8,Rear-end,Multi-Vehicle,-27.29671444,153.0177871,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+143531,Minor injury,May,5,Tuesday,2,16,Sideswipe,Multi-Vehicle,-27.50495745,153.038956,4120,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+143540,Hospitalisation,May,5,Sunday,7,20,Sideswipe,Multi-Vehicle,-27.52294817,153.0544738,4121,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,05,Lane Change
+143541,Medical treatment,August,8,Friday,5,13,Angle,Multi-Vehicle,-27.50884945,153.038668,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+143564,Minor injury,February,2,Wednesday,3,10,Sideswipe,Multi-Vehicle,-27.51627845,153.046692,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+143589,Minor injury,July,7,Sunday,7,15,Angle,Multi-Vehicle,-27.59637544,152.921864,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+143651,Minor injury,September,9,Monday,1,14,Angle,Multi-Vehicle,-27.50299546,153.125397,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+143663,Medical treatment,September,9,Thursday,4,15,Angle,Multi-Vehicle,-27.60154047,153.258412,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,01,Intersection: Adjacent Approach
+143681,Minor injury,October,10,Friday,5,23,Rear-end,Multi-Vehicle,-27.48723546,153.185006,4154,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,3,04,Rear-end
+143969,Hospitalisation,January,1,Wednesday,3,15,Rear-end,Multi-Vehicle,-27.46595545,153.115027,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+144076,Medical treatment,February,2,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.64256545,153.016281,4115,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+144125,Hospitalisation,March,3,Saturday,6,17,Hit object,Single Vehicle,-27.60772145,153.083411,4112,100 - 110 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Level,1,19,Off Carriageway on Curve Hit Object
+144186,Medical treatment,May,5,Wednesday,3,16,Rear-end,Multi-Vehicle,-27.50860645,153.038857,4120,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+144192,Medical treatment,May,5,Tuesday,2,8,Rear-end,Multi-Vehicle,-27.50868436,153.0385925,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,3,04,Rear-end
+144267,Medical treatment,August,8,Tuesday,2,14,Sideswipe,Multi-Vehicle,-27.64285845,153.019652,4115,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+144319,Hospitalisation,September,9,Thursday,4,16,Head-on,Multi-Vehicle,-27.60942447,153.234653,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,02,Head-on
+144765,Hospitalisation,February,2,Monday,1,17,Angle,Multi-Vehicle,-27.47040046,153.134382,4173,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,03,Opposing Vehicles Turning
+144847,Hospitalisation,May,5,Thursday,4,6,Rear-end,Multi-Vehicle,-27.64722645,153.043272,4116,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+144863,Hospitalisation,May,5,Friday,5,17,Rear-end,Multi-Vehicle,-27.49975245,153.039965,4102,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,04,Rear-end
+144865,Hospitalisation,May,5,Friday,5,18,Angle,Multi-Vehicle,-27.61418347,153.236271,4165,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view obscured,Level,3,03,Opposing Vehicles Turning
+144892,Hospitalisation,June,6,Monday,1,10,Rear-end,Multi-Vehicle,-27.51942975,153.0512417,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+144894,Medical treatment,July,7,Thursday,4,15,Rear-end,Multi-Vehicle,-27.34416778,153.0768779,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,3,10,Hit Parked Vehicle
+144939,Hospitalisation,August,8,Sunday,7,6,Hit object,Single Vehicle,-27.58383145,153.101246,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,1,16,Off Carriageway on Straight Hit Object
+144997,Hospitalisation,July,7,Sunday,7,11,Sideswipe,Multi-Vehicle,-27.55815444,153.004602,4106,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+145004,Medical treatment,July,7,Thursday,4,12,Sideswipe,Multi-Vehicle,-27.33744645,153.066921,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+145007,Medical treatment,September,9,Saturday,6,8,Hit object,Single Vehicle,-27.50639244,152.962924,4068,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+145445,Hospitalisation,March,3,Monday,1,12,Hit object,Single Vehicle,-27.31055844,153.0355881,4017,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+145460,Hospitalisation,March,3,Tuesday,2,15,Rear-end,Multi-Vehicle,-27.64549445,153.042366,4116,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+145507,Hospitalisation,May,5,Monday,1,5,Sideswipe,Multi-Vehicle,-27.62847945,153.065523,4116,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,1,05,Lane Change
+145525,Hospitalisation,February,2,Saturday,6,18,Rear-end,Multi-Vehicle,-27.49522245,153.037128,4102,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+145666,Minor injury,September,9,Wednesday,3,19,Sideswipe,Multi-Vehicle,-27.54668745,153.111122,4122,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Crest,2,06,Parallel Lanes Turning
+145672,Medical treatment,September,9,Wednesday,3,19,Rear-end,Multi-Vehicle,-27.51654944,152.955586,4068,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,3,04,Rear-end
+145686,Minor injury,September,9,Saturday,6,10,Rear-end,Multi-Vehicle,-27.30955944,153.0317321,4036,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+145691,Medical treatment,September,9,Sunday,7,0,Hit object,Single Vehicle,-27.39333245,153.091942,4014,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+145722,Hospitalisation,October,10,Thursday,4,11,Angle,Multi-Vehicle,-27.40538345,153.091479,4008,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,05,Lane Change
+152135,Hospitalisation,April,4,Tuesday,2,4,Sideswipe,Multi-Vehicle,-27.46549145,153.114224,4173,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,1,05,Lane Change
+152137,Medical treatment,April,4,Tuesday,2,8,Sideswipe,Multi-Vehicle,-27.46602745,153.114778,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,1,05,Lane Change
+152143,Medical treatment,April,4,Wednesday,3,7,Rear-end,Multi-Vehicle,-27.46661745,153.115456,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+152155,Hospitalisation,March,3,Tuesday,2,18,Sideswipe,Multi-Vehicle,-27.33165345,153.05075,4017,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,05,Lane Change
+152790,Hospitalisation,July,7,Sunday,7,22,Head-on,Multi-Vehicle,-27.40656145,153.096516,4008,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,3,02,Head-on
+152793,Minor injury,July,7,Saturday,6,13,Angle,Multi-Vehicle,-27.50454946,153.128208,4153,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,03,Opposing Vehicles Turning
+152839,Medical treatment,March,3,Tuesday,2,21,Sideswipe,Multi-Vehicle,-27.33322245,153.050812,4018,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,2,05,Lane Change
+153175,Minor injury,July,7,Wednesday,3,19,Sideswipe,Multi-Vehicle,-27.29945444,153.0163691,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,2,05,Lane Change
+153178,Minor injury,July,7,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.52967345,153.057087,4121,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+153215,Hospitalisation,April,4,Wednesday,3,18,Rear-end,Multi-Vehicle,-27.50909646,153.154915,4155,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,3,04,Rear-end
+153240,Medical treatment,June,6,Monday,1,18,Rear-end,Multi-Vehicle,-27.30876344,153.0122021,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+153514,Hospitalisation,April,4,Friday,5,16,Rear-end,Multi-Vehicle,-27.52471046,153.182099,4155,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,3,04,Rear-end
+153534,Minor injury,April,4,Tuesday,2,8,Sideswipe,Multi-Vehicle,-27.45556445,153.106607,4172,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,05,Lane Change
+153550,Medical treatment,May,5,Sunday,7,16,Angle,Multi-Vehicle,-27.50972246,153.149543,4155,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,03,Opposing Vehicles Turning
+153579,Hospitalisation,May,5,Sunday,7,16,Rear-end,Multi-Vehicle,-27.56819447,153.250647,4164,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,3,04,Rear-end
+153596,Medical treatment,May,5,Wednesday,3,15,Rear-end,Multi-Vehicle,-27.50818845,153.038591,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,5,04,Rear-end
+153619,Hospitalisation,June,6,Wednesday,3,5,Sideswipe,Multi-Vehicle,-27.57462444,152.952014,4076,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,1,05,Lane Change
+153686,Hospitalisation,August,8,Friday,5,7,Rear-end,Multi-Vehicle,-27.55749145,153.110915,4123,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+153714,Minor injury,September,9,Sunday,7,1,Sideswipe,Multi-Vehicle,-27.52592945,153.055924,4121,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Curved - view open,Level,2,05,Lane Change
+153715,Hospitalisation,September,9,Friday,5,14,Rear-end,Multi-Vehicle,-27.49204446,153.124516,4153,100 - 110 km/h,Sealed - Wet,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
+153789,Medical treatment,January,1,Friday,5,19,Angle,Multi-Vehicle,-27.62557547,153.287471,4165,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,03,Opposing Vehicles Turning
+154132,Medical treatment,February,2,Tuesday,2,16,Rear-end,Multi-Vehicle,-27.49170746,153.124333,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+154161,Minor injury,January,1,Tuesday,2,7,Rear-end,Multi-Vehicle,-27.58127844,152.935107,4076,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,3,04,Rear-end
+154197,Medical treatment,February,2,Tuesday,2,3,Hit object,Single Vehicle,-27.56128245,153.076584,4109,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+154210,Hospitalisation,April,4,Thursday,4,16,Hit object,Single Vehicle,-27.50905946,153.147487,4155,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+154309,Minor injury,August,8,Tuesday,2,16,Rear-end,Multi-Vehicle,-27.50890046,153.125265,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+154335,Hospitalisation,September,9,Thursday,4,5,Sideswipe,Multi-Vehicle,-27.55132144,152.941105,4074,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+154349,Hospitalisation,September,9,Monday,1,13,Hit parked vehicle,Single Vehicle,-27.28290845,153.0649761,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,21,Other
+154369,Hospitalisation,June,6,Saturday,6,23,Overturned,Single Vehicle,-27.51531446,153.126139,4153,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Crest,1,19,Off Carriageway on Curve Hit Object
+154391,Medical treatment,October,10,Tuesday,2,8,Rear-end,Multi-Vehicle,-27.50887345,153.038612,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,3,04,Rear-end
+154726,Hospitalisation,January,1,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.56253244,152.940971,4074,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+154727,Medical treatment,January,1,Thursday,4,5,Sideswipe,Multi-Vehicle,-27.47950644,152.976028,4066,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,2,05,Lane Change
+154731,Medical treatment,January,1,Thursday,4,7,Rear-end,Multi-Vehicle,-27.41096645,153.057517,4011,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+154815,Minor injury,February,2,Tuesday,2,15,Rear-end,Multi-Vehicle,-27.31127144,153.0372331,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+154818,Hospitalisation,February,2,Tuesday,2,14,Rear-end,Multi-Vehicle,-27.55955846,153.167056,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,3,04,Rear-end
+154833,Hospitalisation,May,5,Sunday,7,17,Rear-end,Multi-Vehicle,-27.54554845,153.062863,4122,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,3,04,Rear-end
+154839,Hospitalisation,May,5,Monday,1,7,Rear-end,Multi-Vehicle,-27.50491046,153.130912,4153,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+154840,Hospitalisation,May,5,Monday,1,8,Rear-end,Multi-Vehicle,-27.53655245,153.058495,4121,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+154994,Hospitalisation,August,8,Monday,1,10,Angle,Multi-Vehicle,-27.28525745,153.0626761,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,03,Opposing Vehicles Turning
+155099,Medical treatment,October,10,Friday,5,17,Rear-end,Multi-Vehicle,-27.58355245,153.101669,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+155114,Hospitalisation,October,10,Friday,5,14,Rear-end,Multi-Vehicle,-27.49532145,153.037615,4102,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+155399,Minor injury,January,1,Friday,5,7,Rear-end,Multi-Vehicle,-27.31131644,153.0373321,4017,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+155501,Minor injury,April,4,Friday,5,21,Angle,Multi-Vehicle,-27.32502744,153.0129181,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+155693,Minor injury,September,9,Monday,1,23,Hit object,Single Vehicle,-27.54462345,153.117121,4156,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Crest,1,16,Off Carriageway on Straight Hit Object
+155705,Hospitalisation,September,9,Monday,1,15,Rear-end,Multi-Vehicle,-27.34522814,153.0768783,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+155732,Minor injury,October,10,Thursday,4,7,Hit object,Single Vehicle,-27.48483546,153.167569,4154,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+155739,Hospitalisation,October,10,Thursday,4,12,Rear-end,Multi-Vehicle,-27.55079845,153.115291,4123,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+155775,Minor injury,March,3,Monday,1,18,Rear-end,Multi-Vehicle,-27.51068075,152.9586415,4068,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Grade,2,04,Rear-end
+156095,Hospitalisation,January,1,Saturday,6,15,Sideswipe,Multi-Vehicle,-27.40159945,153.093825,4008,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,1,05,Lane Change
+156405,Medical treatment,August,8,Tuesday,2,22,Rear-end,Multi-Vehicle,-27.64900145,153.058753,4116,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,2,04,Rear-end
+156413,Medical treatment,August,8,Thursday,4,16,Sideswipe,Multi-Vehicle,-27.43711245,153.096937,4009,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+156831,Minor injury,February,2,Tuesday,2,11,Angle,Multi-Vehicle,-27.56256547,153.23416,4157,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,03,Opposing Vehicles Turning
+156861,Hospitalisation,April,4,Tuesday,2,5,Rear-end,Multi-Vehicle,-27.54884464,153.1168667,4123,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+156865,Minor injury,April,4,Wednesday,3,17,Sideswipe,Multi-Vehicle,-27.57963544,152.9432499,4076,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,2,05,Lane Change
+156938,Hospitalisation,January,1,Saturday,6,8,Rear-end,Multi-Vehicle,-27.56563944,152.982229,4075,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+157505,Medical treatment,January,1,Tuesday,2,15,Rear-end,Multi-Vehicle,-27.58307445,153.098229,4113,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,3,04,Rear-end
+157516,Hospitalisation,February,2,Saturday,6,12,Rear-end,Multi-Vehicle,-27.55045246,153.139729,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+157552,Minor injury,January,1,Tuesday,2,12,Rear-end,Multi-Vehicle,-27.49182846,153.2023,4159,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+157570,Hospitalisation,January,1,Wednesday,3,13,Head-on,Multi-Vehicle,-27.63380644,152.95321,4124,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+157739,Hospitalisation,May,5,Thursday,4,19,Hit object,Single Vehicle,-27.55344444,152.940834,4074,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,21,Other
+158113,Medical treatment,March,3,Sunday,7,8,Rear-end,Multi-Vehicle,-27.52469345,153.055575,4121,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,10,Hit Parked Vehicle
+158156,Medical treatment,January,1,Sunday,7,12,Rear-end,Multi-Vehicle,-27.48560346,153.174749,4154,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+158178,Medical treatment,May,5,Friday,5,9,Rear-end,Multi-Vehicle,-27.57247044,152.957896,4076,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+158241,Hospitalisation,March,3,Friday,5,10,Sideswipe,Multi-Vehicle,-27.49233546,153.124436,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+158298,Hospitalisation,May,5,Monday,1,7,Angle,Multi-Vehicle,-27.28531145,153.0625711,4017,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,1,07,U-turn
+158347,Hospitalisation,March,3,Monday,1,16,Angle,Multi-Vehicle,-27.50521146,153.177226,4154,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Level,2,01,Intersection: Adjacent Approach
+158373,Medical treatment,March,3,Friday,5,6,Hit object,Single Vehicle,-27.63632147,153.23909,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+158398,Hospitalisation,March,3,Monday,1,7,Rear-end,Multi-Vehicle,-27.58861945,153.107739,4113,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,2,04,Rear-end
+158703,Medical treatment,January,1,Saturday,6,17,Angle,Multi-Vehicle,-27.61404247,153.236269,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,03,Opposing Vehicles Turning
+158723,Hospitalisation,January,1,Friday,5,12,Rear-end,Multi-Vehicle,-27.29964044,153.0167041,4036,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,3,04,Rear-end
+158760,Minor injury,August,8,Monday,1,9,Rear-end,Multi-Vehicle,-27.52460347,153.236188,4161,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,2,04,Rear-end
+164352,Hospitalisation,July,7,Monday,1,22,Rear-end,Multi-Vehicle,-27.64421645,153.027706,4115,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,2,04,Rear-end
+164651,Medical treatment,March,3,Tuesday,2,9,Hit object,Single Vehicle,-27.55344245,153.069596,4122,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+164902,Hospitalisation,February,2,Tuesday,2,9,Angle,Multi-Vehicle,-27.54722746,153.134206,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,01,Intersection: Adjacent Approach
+164938,Hospitalisation,March,3,Friday,5,14,Sideswipe,Multi-Vehicle,-27.34755245,153.077538,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,05,Lane Change
+164970,Fatal,May,5,Wednesday,3,15,Rear-end,Multi-Vehicle,-27.46803144,152.994876,4064,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+165480,Hospitalisation,February,2,Monday,1,5,Rear-end,Multi-Vehicle,-27.58883845,153.107846,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,4,04,Rear-end
+165525,Hospitalisation,January,1,Thursday,4,14,Head-on,Multi-Vehicle,-27.50584345,153.038805,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+165531,Medical treatment,January,1,Thursday,4,16,Rear-end,Multi-Vehicle,-27.51481444,152.956535,4068,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,04,Rear-end
+165535,Medical treatment,May,5,Wednesday,3,5,Rear-end,Multi-Vehicle,-27.64285145,153.01815,4115,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+165826,Medical treatment,June,6,Monday,1,17,Rear-end,Multi-Vehicle,-27.33166844,153.0127581,4036,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
+242171,Hospitalisation,August,8,Tuesday,2,12,Rear-end,Multi-Vehicle,-27.57026844,152.965153,4076,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+242510,Medical treatment,July,7,Wednesday,3,6,Rear-end,Multi-Vehicle,-27.29851944,153.0173011,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,05,Lane Change
+276189,Hospitalisation,May,5,Thursday,4,8,Angle,Multi-Vehicle,-27.33857744,153.0100941,4034,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+279125,Hospitalisation,August,8,Monday,1,16,Rear-end,Multi-Vehicle,-27.34553045,153.076981,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,4,04,Rear-end
+279140,Medical treatment,August,8,Friday,5,10,Rear-end,Multi-Vehicle,-27.50890745,153.038756,4120,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+279145,Medical treatment,September,9,Tuesday,2,13,Rear-end,Multi-Vehicle,-27.62803147,153.236792,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,04,Rear-end
+279275,Hospitalisation,June,6,Thursday,4,23,Overturned,Single Vehicle,-27.52469946,153.124905,4153,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Dip,1,15,Off Carriageway on Straight
+279337,Medical treatment,September,9,Wednesday,3,6,Sideswipe,Multi-Vehicle,-27.56597245,153.083303,4109,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+279360,Medical treatment,September,9,Thursday,4,16,Sideswipe,Multi-Vehicle,-27.54763844,152.941475,4074,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+279523,Hospitalisation,October,10,Friday,5,22,Sideswipe,Multi-Vehicle,-27.52892045,153.056908,4121,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+279527,Minor injury,October,10,Thursday,4,18,Rear-end,Multi-Vehicle,-27.65149745,153.040816,4116,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+279707,Hospitalisation,December,12,Sunday,7,15,Hit object,Single Vehicle,-27.64190744,152.990896,4110,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+281431,Hospitalisation,July,7,Wednesday,3,18,Rear-end,Multi-Vehicle,-27.51435045,153.042722,4120,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,4,04,Rear-end
+281534,Medical treatment,December,12,Saturday,6,22,Angle,Multi-Vehicle,-27.58639745,153.103154,4113,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,03,Opposing Vehicles Turning
+282349,Medical treatment,August,8,Wednesday,3,20,Rear-end,Multi-Vehicle,-27.53361345,153.057902,4121,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,3,04,Rear-end
+282358,Medical treatment,August,8,Friday,5,13,Hit object,Single Vehicle,-27.57437544,152.952986,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,1,16,Off Carriageway on Straight Hit Object
+282388,Minor injury,April,4,Monday,1,12,Hit object,Single Vehicle,-27.55893446,153.170803,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+282389,Hospitalisation,December,12,Thursday,4,13,Angle,Multi-Vehicle,-27.46339546,153.144944,4178,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,03,Opposing Vehicles Turning
+282717,Hospitalisation,June,6,Friday,5,22,Hit object,Single Vehicle,-27.29521145,153.0487551,4017,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+283482,Medical treatment,July,7,Tuesday,2,6,Sideswipe,Multi-Vehicle,-27.46533945,153.114125,4173,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,3,05,Lane Change
+283506,Medical treatment,July,7,Wednesday,3,17,Rear-end,Multi-Vehicle,-27.50830246,153.125054,4153,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+303545,Medical treatment,May,5,Wednesday,3,4,Sideswipe,Multi-Vehicle,-27.57354144,152.955604,4076,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,2,05,Lane Change
+304077,Minor injury,January,1,Sunday,7,9,Hit object,Single Vehicle,-27.53896145,153.118185,4156,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+304104,Medical treatment,February,2,Sunday,7,7,Hit object,Single Vehicle,-27.32936944,153.0120111,4036,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,20,Out of Control on Curve
+304161,Minor injury,January,1,Tuesday,2,12,Rear-end,Multi-Vehicle,-27.35733445,153.090797,4014,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,05,Lane Change
+304172,Hospitalisation,April,4,Monday,1,15,Rear-end,Multi-Vehicle,-27.44447245,153.100495,4009,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,05,Lane Change
+304189,Medical treatment,May,5,Saturday,6,18,Angle,Multi-Vehicle,-27.49551445,153.037512,4102,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,05,Lane Change
+304211,Hospitalisation,June,6,Wednesday,3,14,Rear-end,Multi-Vehicle,-27.44235745,153.099912,4009,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,1,04,Rear-end
+304401,Medical treatment,September,9,Friday,5,8,Rear-end,Multi-Vehicle,-27.31124544,153.0375121,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,21,Other
+309212,Minor injury,October,10,Tuesday,2,17,Rear-end,Multi-Vehicle,-27.45589245,153.107107,4172,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,04,Rear-end
+309213,Medical treatment,October,10,Friday,5,17,Rear-end,Multi-Vehicle,-27.33742445,153.066153,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,4,04,Rear-end
+309620,Minor injury,November,11,Sunday,7,19,Rear-end,Multi-Vehicle,-27.49649944,152.964067,4068,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+309950,Hospitalisation,October,10,Saturday,6,18,Angle,Multi-Vehicle,-27.37675343,152.8363431,4520,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,2,01,Intersection: Adjacent Approach
+309959,Hospitalisation,October,10,Monday,1,6,Rear-end,Multi-Vehicle,-27.43644745,153.031466,4030,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,3,04,Rear-end
+310194,Hospitalisation,March,3,Saturday,6,5,Head-on,Multi-Vehicle,-27.46639409,153.0352219,4169,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,02,Head-on
+310616,Medical treatment,March,3,Tuesday,2,9,Rear-end,Multi-Vehicle,-27.50174145,153.039527,4120,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,4,04,Rear-end
+310627,Minor injury,March,3,Tuesday,2,18,Angle,Multi-Vehicle,-27.47848845,153.027438,4000,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,2,05,Lane Change
+312593,Minor injury,June,6,Thursday,4,9,Rear-end,Multi-Vehicle,-27.40372245,153.075162,4012,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,1,04,Rear-end
+312660,Medical treatment,June,6,Wednesday,3,17,Rear-end,Multi-Vehicle,-27.56929944,152.968058,4075,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,3,04,Rear-end
+312870,Hospitalisation,June,6,Wednesday,3,18,Rear-end,Multi-Vehicle,-27.47100945,153.117262,4173,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,04,Rear-end
+312877,Medical treatment,June,6,Friday,5,16,Sideswipe,Multi-Vehicle,-27.33198345,153.050689,4017,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,2,05,Lane Change
+312890,Hospitalisation,July,7,Monday,1,7,Sideswipe,Multi-Vehicle,-27.53632646,153.120375,4156,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,1,05,Lane Change
+312932,Hospitalisation,November,11,Wednesday,3,17,Overturned,Single Vehicle,-27.50758045,153.038363,4120,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+312938,Minor injury,November,11,Wednesday,3,16,Rear-end,Multi-Vehicle,-27.50893046,153.125244,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+312955,Hospitalisation,December,12,Thursday,4,9,Rear-end,Multi-Vehicle,-27.50366145,153.039146,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+312974,Hospitalisation,August,8,Monday,1,11,Angle,Multi-Vehicle,-27.52433047,153.239986,4161,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,01,Intersection: Adjacent Approach
+313060,Medical treatment,November,11,Wednesday,3,9,Sideswipe,Multi-Vehicle,-27.34411945,153.076916,4034,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,2,05,Lane Change
+313795,Hospitalisation,October,10,Monday,1,5,Hit object,Single Vehicle,-27.60704845,153.083916,4112,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Curved - view open,Level,1,21,Other
+329994,Medical treatment,February,2,Wednesday,3,6,Rear-end,Multi-Vehicle,-27.57670144,152.944787,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+334034,Medical treatment,February,2,Tuesday,2,15,Rear-end,Multi-Vehicle,-27.36865414,153.0972009,4014,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+336442,Medical treatment,May,5,Wednesday,3,18,Rear-end,Multi-Vehicle,-27.30123944,153.0162141,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,2,04,Rear-end
+336464,Medical treatment,October,10,Wednesday,3,14,Rear-end,Multi-Vehicle,-27.61417347,153.236342,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,04,Rear-end
+336867,Hospitalisation,November,11,Thursday,4,16,Rear-end,Multi-Vehicle,-27.44751245,153.125589,4174,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,3,04,Rear-end
+336919,Medical treatment,October,10,Wednesday,3,5,Rear-end,Multi-Vehicle,-27.39433945,153.107462,4008,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Crest,3,04,Rear-end
+336923,Hospitalisation,October,10,Wednesday,3,13,Head-on,Multi-Vehicle,-27.55878446,153.160166,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,02,Head-on
+336939,Minor injury,October,10,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.51738945,153.048953,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+336966,Medical treatment,November,11,Tuesday,2,13,Rear-end,Multi-Vehicle,-27.61417747,153.236335,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,2,04,Rear-end
+337198,Hospitalisation,July,7,Monday,1,16,Sideswipe,Multi-Vehicle,-27.60294444,152.919142,4076,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,05,Lane Change
+337262,Medical treatment,November,11,Friday,5,9,Rear-end,Multi-Vehicle,-27.51537611,152.9561027,4068,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,2,04,Rear-end
+337403,Hospitalisation,March,3,Tuesday,2,12,Sideswipe,Multi-Vehicle,-27.57668945,153.106152,4123,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,08,Vehicle Leaving Driveway
+337470,Hospitalisation,June,6,Monday,1,17,Angle,Multi-Vehicle,-27.50187846,153.175074,4154,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,1,01,Intersection: Adjacent Approach
+337633,Minor injury,November,11,Tuesday,2,15,Angle,Multi-Vehicle,-27.51131545,153.040115,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+337638,Minor injury,December,12,Friday,5,14,Angle,Multi-Vehicle,-27.38692643,152.8612991,4520,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,01,Intersection: Adjacent Approach
+337663,Minor injury,December,12,Saturday,6,10,Rear-end,Multi-Vehicle,-27.62818847,153.236749,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Dip,2,04,Rear-end
+337686,Hospitalisation,November,11,Thursday,4,16,Sideswipe,Multi-Vehicle,-27.33411395,153.0511837,4018,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,15,Off Carriageway on Straight
+337700,Hospitalisation,December,12,Sunday,7,16,Hit object,Single Vehicle,-27.32937344,153.0118881,4036,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+337708,Hospitalisation,December,12,Monday,1,8,Rear-end,Multi-Vehicle,-27.44013945,153.031646,4030,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+337721,Medical treatment,December,12,Thursday,4,16,Sideswipe,Multi-Vehicle,-27.28205045,153.0650121,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+337726,Hospitalisation,December,12,Thursday,4,16,Rear-end,Multi-Vehicle,-27.56262444,152.993725,4106,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+337778,Hospitalisation,September,9,Tuesday,2,17,Rear-end,Multi-Vehicle,-27.49287546,153.209325,4159,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+337797,Hospitalisation,October,10,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.64287119,153.0196609,4115,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+337804,Minor injury,December,12,Monday,1,17,Rear-end,Multi-Vehicle,-27.51562945,153.045951,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+337845,Hospitalisation,April,4,Monday,1,9,Rear-end,Multi-Vehicle,-27.53824245,153.118848,4156,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Grade,2,04,Rear-end
+337851,Hospitalisation,April,4,Tuesday,2,7,Angle,Multi-Vehicle,-27.50886446,153.157201,4155,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,1,08,Vehicle Leaving Driveway
+337863,Medical treatment,March,3,Tuesday,2,7,Rear-end,Multi-Vehicle,-27.58735945,153.106911,4113,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,3,04,Rear-end
+337910,Minor injury,June,6,Monday,1,10,Struck by external load,Other,-27.56629044,152.979934,4075,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,21,Other
+338139,Hospitalisation,December,12,Monday,1,11,Angle,Multi-Vehicle,-27.52837346,153.123733,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+338145,Minor injury,December,12,Friday,5,16,Rear-end,Multi-Vehicle,-27.51248644,152.957706,4068,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+338166,Medical treatment,December,12,Tuesday,2,15,Angle,Multi-Vehicle,-27.58434247,153.223236,4157,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,01,Intersection: Adjacent Approach
+338198,Minor injury,November,11,Wednesday,3,7,Overturned,Single Vehicle,-27.57645947,153.257132,4164,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Crest,5,04,Rear-end
+338250,Medical treatment,December,12,Monday,1,0,Hit object,Single Vehicle,-27.40924142,152.8003291,4520,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Not lighted,Curved - view obscured,Dip,1,19,Off Carriageway on Curve Hit Object
+338270,Medical treatment,April,4,Wednesday,3,16,Rear-end,Multi-Vehicle,-27.64902444,153.0546973,4116,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+338278,Minor injury,April,4,Tuesday,2,16,Rear-end,Multi-Vehicle,-27.56532344,152.985213,4075,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+338486,Hospitalisation,May,5,Monday,1,19,Angle,Multi-Vehicle,-27.55815646,153.178146,4156,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,06,Parallel Lanes Turning
+338514,Medical treatment,March,3,Thursday,4,16,Rear-end,Multi-Vehicle,-27.59326644,152.997091,4110,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,4,04,Rear-end
+338554,Medical treatment,October,10,Saturday,6,17,Rear-end,Multi-Vehicle,-27.50341545,153.039289,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+338560,Medical treatment,May,5,Friday,5,9,Rear-end,Multi-Vehicle,-27.50521146,153.177226,4154,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+338584,Medical treatment,March,3,Sunday,7,20,Rear-end,Multi-Vehicle,-27.48796645,153.032704,4102,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+338640,Hospitalisation,December,12,Wednesday,3,19,Head-on,Multi-Vehicle,-27.59405644,153.002826,4110,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,2,02,Head-on
+339149,Hospitalisation,November,11,Monday,1,14,Sideswipe,Multi-Vehicle,-27.35428945,153.07963,4034,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,08,Vehicle Leaving Driveway
+339154,Hospitalisation,November,11,Friday,5,8,Rear-end,Multi-Vehicle,-27.53659645,153.058529,4121,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,4,04,Rear-end
+339164,Hospitalisation,November,11,Wednesday,3,7,Sideswipe,Multi-Vehicle,-27.43698545,153.096222,4009,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,2,05,Lane Change
+339174,Hospitalisation,November,11,Thursday,4,12,Sideswipe,Multi-Vehicle,-27.64212745,153.061195,4116,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,05,Lane Change
+339183,Medical treatment,November,11,Friday,5,7,Hit object,Single Vehicle,-27.55218144,152.941085,4074,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,2,05,Lane Change
+339212,Medical treatment,January,1,Monday,1,8,Sideswipe,Multi-Vehicle,-27.53718846,153.119829,4156,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+357229,Medical treatment,January,1,Thursday,4,7,Rear-end,Multi-Vehicle,-27.37066844,152.9801191,4035,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,2,04,Rear-end
+357280,Medical treatment,April,4,Wednesday,3,14,Rear-end,Multi-Vehicle,-27.54396344,152.942824,4073,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+357371,Medical treatment,September,9,Thursday,4,21,Overturned,Single Vehicle,-27.32879444,153.0121481,4036,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,1,17,Out of Control on Straight
+357384,Hospitalisation,September,9,Wednesday,3,6,Rear-end,Multi-Vehicle,-27.50885945,153.038708,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,5,04,Rear-end
+357387,Hospitalisation,September,9,Friday,5,23,Hit object,Single Vehicle,-27.59807044,152.921054,4076,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+357399,Hospitalisation,April,4,Friday,5,14,Hit object,Single Vehicle,-27.52704144,152.947098,4069,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+357456,Minor injury,October,10,Tuesday,2,6,Rear-end,Multi-Vehicle,-27.30472344,153.0237191,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+357499,Minor injury,July,7,Thursday,4,9,Rear-end,Multi-Vehicle,-27.29512845,153.0182637,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+357533,Medical treatment,December,12,Monday,1,19,Hit object,Single Vehicle,-27.36940643,152.8573251,4520,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Not lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+357548,Medical treatment,December,12,Monday,1,17,Rear-end,Multi-Vehicle,-27.49980844,152.963086,4068,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+373007,Medical treatment,September,9,Friday,5,5,Rear-end,Multi-Vehicle,-27.57349344,152.955292,4076,100 - 110 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,1,04,Rear-end
+373031,Medical treatment,March,3,Saturday,6,12,Rear-end,Multi-Vehicle,-27.42793245,153.079902,4009,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+373050,Hospitalisation,March,3,Wednesday,3,16,Rear-end,Multi-Vehicle,-27.33390944,153.0108271,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,4,04,Rear-end
+373052,Medical treatment,February,2,Wednesday,3,7,Rear-end,Multi-Vehicle,-27.60628945,153.084049,4112,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+373248,Hospitalisation,November,11,Saturday,6,10,Rear-end,Multi-Vehicle,-27.30511244,153.0245931,4036,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,3,04,Rear-end
+373406,Hospitalisation,July,7,Monday,1,11,Rear-end,Multi-Vehicle,-27.58176544,152.934347,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+373439,Medical treatment,August,8,Thursday,4,12,Rear-end,Multi-Vehicle,-27.59415944,153.003588,4110,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+373441,Hospitalisation,August,8,Thursday,4,8,Rear-end,Multi-Vehicle,-27.59169247,153.218453,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+373450,Medical treatment,August,8,Friday,5,9,Sideswipe,Multi-Vehicle,-27.60135244,152.920277,4076,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+373479,Hospitalisation,September,9,Saturday,6,18,Rear-end,Multi-Vehicle,-27.49635745,153.038017,4102,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,3,05,Lane Change
+373509,Medical treatment,September,9,Tuesday,2,7,Rear-end,Multi-Vehicle,-27.56836945,153.086977,4109,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,5,04,Rear-end
+373537,Hospitalisation,May,5,Friday,5,3,Hit object,Single Vehicle,-27.47678745,153.026223,4000,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Grade,1,16,Off Carriageway on Straight Hit Object
+373539,Hospitalisation,May,5,Friday,5,5,Hit object,Single Vehicle,-27.62313147,153.236535,4165,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Grade,1,19,Off Carriageway on Curve Hit Object
+382507,Hospitalisation,November,11,Tuesday,2,14,Rear-end,Multi-Vehicle,-27.30264944,153.0178311,4036,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Grade,3,04,Rear-end
+382528,Medical treatment,September,9,Friday,5,3,Sideswipe,Multi-Vehicle,-27.63454961,152.969754,4078,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,1,05,Lane Change
+385334,Medical treatment,February,2,Monday,1,14,Angle,Multi-Vehicle,-27.49933346,153.125871,4153,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,05,Lane Change
+385359,Medical treatment,August,8,Saturday,6,17,Hit object,Single Vehicle,-27.56488247,153.229796,4157,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+385376,Hospitalisation,June,6,Thursday,4,14,Rear-end,Multi-Vehicle,-27.42390145,153.033406,4030,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+385388,Minor injury,June,6,Thursday,4,15,Rear-end,Multi-Vehicle,-27.50872145,153.038605,4120,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,3,04,Rear-end
+388515,Hospitalisation,October,10,Thursday,4,13,Sideswipe,Multi-Vehicle,-27.46619945,153.114869,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+388530,Medical treatment,October,10,Friday,5,6,Rear-end,Multi-Vehicle,-27.45534145,153.107115,4172,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,04,Rear-end
+389650,Hospitalisation,March,3,Saturday,6,14,Rear-end,Multi-Vehicle,-27.27797745,153.0687861,4503,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+389905,Medical treatment,January,1,Friday,5,9,Rear-end,Multi-Vehicle,-27.64806145,153.041888,4116,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+390635,Hospitalisation,May,5,Saturday,6,0,Rear-end,Multi-Vehicle,-27.49265945,153.035219,4102,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view open,Level,3,04,Rear-end
+390655,Fatal,June,6,Tuesday,2,8,Rear-end,Multi-Vehicle,-27.33996944,153.0106631,4034,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+390806,Medical treatment,August,8,Tuesday,2,14,Rear-end,Multi-Vehicle,-27.56794445,153.08679,4109,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
+391366,Medical treatment,May,5,Thursday,4,5,Rear-end,Multi-Vehicle,-27.32927845,153.051187,4017,80 - 90 km/h,Sealed - Wet,Raining,Dawn/Dusk,Straight,Grade,5,04,Rear-end
+391837,Medical treatment,June,6,Saturday,6,17,Rear-end,Multi-Vehicle,-27.50737945,153.03877,4120,80 - 90 km/h,Sealed - Wet,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+391842,Hospitalisation,May,5,Tuesday,2,14,Head-on,Multi-Vehicle,-27.51745947,153.255269,4160,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,02,Head-on
+391863,Hospitalisation,June,6,Tuesday,2,15,Rear-end,Multi-Vehicle,-27.58351389,153.1047388,4123,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+391867,Medical treatment,June,6,Wednesday,3,6,Rear-end,Multi-Vehicle,-27.49558345,153.037372,4102,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+391868,Medical treatment,June,6,Thursday,4,6,Rear-end,Multi-Vehicle,-27.64256545,153.016281,4115,100 - 110 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
+391878,Hospitalisation,August,8,Monday,1,16,Angle,Multi-Vehicle,-27.54259144,153.012373,4106,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,05,Lane Change
+391892,Hospitalisation,July,7,Monday,1,15,Rear-end,Multi-Vehicle,-27.59197145,153.110134,4123,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+392376,Minor injury,October,10,Friday,5,14,Rear-end,Multi-Vehicle,-27.31134444,153.0367261,4017,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+392773,Medical treatment,June,6,Wednesday,3,14,Rear-end,Multi-Vehicle,-27.31282945,153.0411411,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,04,Rear-end
+392794,Medical treatment,July,7,Tuesday,2,5,Sideswipe,Multi-Vehicle,-27.61134744,152.943262,4078,100 - 110 km/h,Sealed - Wet,Raining,Darkness - Lighted,Straight,Level,1,05,Lane Change
+393630,Minor injury,August,8,Monday,1,5,Rear-end,Multi-Vehicle,-27.41019145,153.094239,4008,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+393640,Medical treatment,August,8,Monday,1,6,Fall from vehicle,Single Vehicle,-27.30363844,153.0211551,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,21,Other
+394913,Hospitalisation,September,9,Thursday,4,16,Overturned,Single Vehicle,-27.35700444,152.9477171,4055,80 - 90 km/h,Sealed - Wet,Raining,Darkness - Lighted,Curved - view obscured,Level,1,21,Other
+394931,Medical treatment,September,9,Monday,1,14,Rear-end,Multi-Vehicle,-27.53910644,152.946168,4073,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+395052,Hospitalisation,May,5,Thursday,4,8,Angle,Multi-Vehicle,-27.59295444,152.993614,4077,80 - 90 km/h,Sealed - Wet,Clear,Daylight,Curved - view open,Level,1,06,Parallel Lanes Turning
+395146,Medical treatment,November,11,Thursday,4,18,Rear-end,Multi-Vehicle,-27.49525445,153.03767,4102,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,3,04,Rear-end
+395164,Minor injury,December,12,Tuesday,2,14,Rear-end,Multi-Vehicle,-27.31293445,153.0437161,4017,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+395200,Minor injury,May,5,Friday,5,22,Head-on,Multi-Vehicle,-27.58617971,153.1027392,4113,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,02,Head-on
+395311,Hospitalisation,May,5,Friday,5,14,Sideswipe,Multi-Vehicle,-27.49225646,153.124397,4153,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,05,Lane Change
+395806,Minor injury,September,9,Sunday,7,15,Sideswipe,Multi-Vehicle,-27.55679944,153.009166,4106,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,2,05,Lane Change
+395868,Hospitalisation,November,11,Saturday,6,5,Hit object,Single Vehicle,-27.59379945,153.111551,4123,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+400431,Hospitalisation,May,5,Thursday,4,7,Rear-end,Multi-Vehicle,-27.64765545,153.04937,4116,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+400614,Medical treatment,December,12,Wednesday,3,6,Sideswipe,Multi-Vehicle,-27.54211245,153.117042,4156,100 - 110 km/h,Sealed - Wet,Raining,Daylight,Straight,Grade,2,05,Lane Change
+400636,Medical treatment,July,7,Friday,5,15,Rear-end,Multi-Vehicle,-27.57626893,153.0999098,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,2,04,Rear-end
+400638,Medical treatment,July,7,Friday,5,18,Rear-end,Multi-Vehicle,-27.30540244,153.0248081,4036,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,4,04,Rear-end
+400647,Medical treatment,July,7,Saturday,6,12,Rear-end,Multi-Vehicle,-27.30737044,153.0280211,4036,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+401228,Hospitalisation,March,3,Monday,1,6,Rear-end,Multi-Vehicle,-27.59036645,153.108771,4113,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+401321,Hospitalisation,February,2,Saturday,6,18,Angle,Multi-Vehicle,-27.46530945,153.11422,4173,100 - 110 km/h,Sealed - Wet,Clear,Dawn/Dusk,Straight,Grade,1,06,Parallel Lanes Turning
+402636,Hospitalisation,August,8,Thursday,4,8,Rear-end,Multi-Vehicle,-27.48722146,153.185084,4154,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+402910,Minor injury,January,1,Monday,1,7,Sideswipe,Multi-Vehicle,-27.58648944,152.947801,4077,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Curved - view open,Level,1,05,Lane Change
+403147,Medical treatment,July,7,Sunday,7,20,Rear-end,Multi-Vehicle,-27.64307345,153.01969,4115,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+403206,Hospitalisation,August,8,Thursday,4,15,Sideswipe,Multi-Vehicle,-27.32897044,153.0121241,4036,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+403472,Medical treatment,March,3,Wednesday,3,8,Rear-end,Multi-Vehicle,-27.57289744,152.956877,4076,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+403579,Hospitalisation,March,3,Thursday,4,1,Hit object,Single Vehicle,-27.64214908,153.0432966,4115,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Curved - view open,Level,1,19,Off Carriageway on Curve Hit Object
+404137,Hospitalisation,May,5,Wednesday,3,14,Sideswipe,Multi-Vehicle,-27.53691146,153.11975,4156,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+404749,Medical treatment,November,11,Friday,5,12,Rear-end,Multi-Vehicle,-27.59114245,153.109275,4113,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,2,04,Rear-end
+404806,Minor injury,April,4,Monday,1,5,Rear-end,Multi-Vehicle,-27.33738345,153.067794,4034,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,1,04,Rear-end
+405233,Minor injury,April,4,Monday,1,12,Angle,Multi-Vehicle,-27.56224944,152.993634,4106,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+405689,Minor injury,May,5,Sunday,7,8,Rear-end,Multi-Vehicle,-27.51374446,153.125874,4153,80 - 90 km/h,Sealed - Wet,Raining,Daylight,Straight,Level,1,04,Rear-end
+405882,Hospitalisation,August,8,Monday,1,16,Rear-end,Multi-Vehicle,-27.51464945,153.043299,4120,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,6,04,Rear-end
+406005,Hospitalisation,June,6,Wednesday,3,3,Hit object,Single Vehicle,-27.29687745,153.0479941,4017,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Curved - view open,Crest,1,19,Off Carriageway on Curve Hit Object
+406044,Medical treatment,July,7,Wednesday,3,8,Angle,Multi-Vehicle,-27.46268245,153.111548,4172,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,05,Lane Change
+406050,Hospitalisation,July,7,Friday,5,11,Rear-end,Multi-Vehicle,-27.54182544,152.944143,4074,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,5,04,Rear-end
+406062,Minor injury,July,7,Friday,5,17,Rear-end,Multi-Vehicle,-27.46401245,153.113086,4173,100 - 110 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,3,04,Rear-end
+406095,Hospitalisation,February,2,Saturday,6,12,Rear-end,Multi-Vehicle,-27.52314845,153.054193,4121,100 - 110 km/h,Sealed - Wet,Clear,Daylight,Straight,Level,2,04,Rear-end
+406427,Hospitalisation,April,4,Wednesday,3,20,Hit object,Single Vehicle,-27.48655446,153.180177,4154,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Not lighted,Straight,Level,1,16,Off Carriageway on Straight Hit Object
+406429,Hospitalisation,February,2,Tuesday,2,9,Rear-end,Multi-Vehicle,-27.27367145,153.0720461,4503,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,04,Rear-end
+406470,Minor injury,April,4,Thursday,4,15,Rear-end,Multi-Vehicle,-27.50608445,153.03899,4120,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Grade,3,04,Rear-end
+406491,Minor injury,April,4,Friday,5,18,Rear-end,Multi-Vehicle,-27.49637745,153.038464,4102,80 - 90 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,2,04,Rear-end
+406493,Hospitalisation,December,12,Tuesday,2,13,Angle,Multi-Vehicle,-27.62542347,153.287621,4165,80 - 90 km/h,Sealed - Dry,Clear,Daylight,Straight,Level,1,03,Opposing Vehicles Turning
+406509,Medical treatment,June,6,Wednesday,3,17,Rear-end,Multi-Vehicle,-27.48819745,153.122075,4153,100 - 110 km/h,Sealed - Dry,Clear,Darkness - Lighted,Straight,Level,4,04,Rear-end
+406644,Medical treatment,June,6,Sunday,7,16,Rear-end,Multi-Vehicle,-27.52379444,152.947701,4069,80 - 90 km/h,Sealed - Dry,Clear,Dawn/Dusk,Straight,Level,2,04,Rear-end
