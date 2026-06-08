@@ -33,8 +33,26 @@ library(scales)
 
 ## Dataset Description
 
+- **Source:** Queensland Government Open Data Portal — *Crash data from Queensland roads*
+- **Scope:** Brisbane police region, 2024 only
+- **Filter:** Roads with speed limits of 80–110 km/h
+- **Records:** 402 individual crash events, each with a unique reference number
+- **20 variables** covering time, location, crash type, and environmental conditions
+- **Outcome:** Crash Severity — Fatal, Hospitalisation, Medical treatment, or Minor injury
+- **Quality:** No missing values, no duplicates, consistent formatting across all columns
+
+
 ## Methods
 
+- We filtered the full Queensland dataset to Brisbane 2024, high-speed roads (80–110 km/h)
+- Then, we checked data quality: zero missing values, no duplicates, all values within expected ranges
+- No data was changed, removed, or filled in — dataset was already clean and complete
+- We grouped severity into **Serious** (Fatal + Hospitalisation) and **Non-serious** (Medical treatment + Minor injury)
+- Used bar charts and percentage comparisons to explore:
+  - Overall crash severity distribution
+  - Serious outcome rates by crash nature
+  - Serious outcome rates by lighting and road surface conditions
+  
 ## Results
 
 ### How are crash severity outcomes distributed across high-speed road crashes in Brisbane in 2024?
